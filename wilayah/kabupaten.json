@@ -1,0 +1,4628 @@
+[
+  {
+    "id": 1109,
+    "nama": "KAB. SIMEULUE",
+    "kode_wil_bps": 1101,
+    "nama_wil_bps": "SIMEULUE",
+    "parent": 11,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 1110,
+    "nama": "KAB. ACEH SINGKIL",
+    "kode_wil_bps": 1102,
+    "nama_wil_bps": "ACEH SINGKIL",
+    "parent": 11,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 1101,
+    "nama": "KAB. ACEH SELATAN",
+    "kode_wil_bps": 1103,
+    "nama_wil_bps": "ACEH SELATAN",
+    "parent": 11,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 1102,
+    "nama": "KAB. ACEH TENGGARA",
+    "kode_wil_bps": 1104,
+    "nama_wil_bps": "ACEH TENGGARA",
+    "parent": 11,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 1103,
+    "nama": "KAB. ACEH TIMUR",
+    "kode_wil_bps": 1105,
+    "nama_wil_bps": "ACEH TIMUR",
+    "parent": 11,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 1104,
+    "nama": "KAB. ACEH TENGAH",
+    "kode_wil_bps": 1106,
+    "nama_wil_bps": "ACEH TENGAH",
+    "parent": 11,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 1105,
+    "nama": "KAB. ACEH BARAT",
+    "kode_wil_bps": 1107,
+    "nama_wil_bps": "ACEH BARAT",
+    "parent": 11,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 1106,
+    "nama": "KAB. ACEH BESAR",
+    "kode_wil_bps": 1108,
+    "nama_wil_bps": "ACEH BESAR",
+    "parent": 11,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 1107,
+    "nama": "KAB. PIDIE",
+    "kode_wil_bps": 1109,
+    "nama_wil_bps": "PIDIE",
+    "parent": 11,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 1111,
+    "nama": "KAB. BIREUEN",
+    "kode_wil_bps": 1110,
+    "nama_wil_bps": "BIREUEN",
+    "parent": 11,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 1108,
+    "nama": "KAB. ACEH UTARA",
+    "kode_wil_bps": 1111,
+    "nama_wil_bps": "ACEH UTARA",
+    "parent": 11,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 1112,
+    "nama": "KAB. ACEH BARAT DAYA",
+    "kode_wil_bps": 1112,
+    "nama_wil_bps": "ACEH BARAT DAYA",
+    "parent": 11,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 1113,
+    "nama": "KAB. GAYO LUES",
+    "kode_wil_bps": 1113,
+    "nama_wil_bps": "GAYO LUES",
+    "parent": 11,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 1116,
+    "nama": "KAB. ACEH TAMIANG",
+    "kode_wil_bps": 1114,
+    "nama_wil_bps": "ACEH TAMIANG",
+    "parent": 11,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 1115,
+    "nama": "KAB. NAGAN RAYA",
+    "kode_wil_bps": 1115,
+    "nama_wil_bps": "NAGAN RAYA",
+    "parent": 11,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 1114,
+    "nama": "KAB. ACEH JAYA",
+    "kode_wil_bps": 1116,
+    "nama_wil_bps": "ACEH JAYA",
+    "parent": 11,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 1117,
+    "nama": "KAB. BENER MERIAH",
+    "kode_wil_bps": 1117,
+    "nama_wil_bps": "BENER MERIAH",
+    "parent": 11,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 1118,
+    "nama": "KAB. PIDIE JAYA",
+    "kode_wil_bps": 1118,
+    "nama_wil_bps": "PIDIE JAYA",
+    "parent": 11,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 1171,
+    "nama": "KOTA BANDA ACEH",
+    "kode_wil_bps": 1171,
+    "nama_wil_bps": "BANDA ACEH",
+    "parent": 11,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 1172,
+    "nama": "KOTA SABANG",
+    "kode_wil_bps": 1172,
+    "nama_wil_bps": "SABANG",
+    "parent": 11,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 1174,
+    "nama": "KOTA LANGSA",
+    "kode_wil_bps": 1173,
+    "nama_wil_bps": "LANGSA",
+    "parent": 11,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 1173,
+    "nama": "KOTA LHOKSEUMAWE",
+    "kode_wil_bps": 1174,
+    "nama_wil_bps": "LHOKSEUMAWE",
+    "parent": 11,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 1175,
+    "nama": "KOTA SUBULUSSALAM",
+    "kode_wil_bps": 1175,
+    "nama_wil_bps": "SUBULUSSALAM",
+    "parent": 11,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 1204,
+    "nama": "KAB. NIAS",
+    "kode_wil_bps": 1201,
+    "nama_wil_bps": "NIAS",
+    "parent": 12,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 1213,
+    "nama": "KAB. MANDAILING NATAL",
+    "kode_wil_bps": 1202,
+    "nama_wil_bps": "MANDAILING NATAL",
+    "parent": 12,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 1203,
+    "nama": "KAB. TAPANULI SELATAN",
+    "kode_wil_bps": 1203,
+    "nama_wil_bps": "TAPANULI SELATAN",
+    "parent": 12,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 1201,
+    "nama": "KAB. TAPANULI TENGAH",
+    "kode_wil_bps": 1204,
+    "nama_wil_bps": "TAPANULI TENGAH",
+    "parent": 12,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 1202,
+    "nama": "KAB. TAPANULI UTARA",
+    "kode_wil_bps": 1205,
+    "nama_wil_bps": "TAPANULI UTARA",
+    "parent": 12,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 1212,
+    "nama": "KAB. TOBA SAMOSIR",
+    "kode_wil_bps": 1206,
+    "nama_wil_bps": "TOBA SAMOSIR",
+    "parent": 12,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 1210,
+    "nama": "KAB. LABUHANBATU",
+    "kode_wil_bps": 1207,
+    "nama_wil_bps": "LABUHAN BATU",
+    "parent": 12,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 1209,
+    "nama": "KAB. ASAHAN",
+    "kode_wil_bps": 1208,
+    "nama_wil_bps": "ASAHAN",
+    "parent": 12,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 1208,
+    "nama": "KAB. SIMALUNGUN",
+    "kode_wil_bps": 1209,
+    "nama_wil_bps": "SIMALUNGUN",
+    "parent": 12,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 1211,
+    "nama": "KAB. DAIRI",
+    "kode_wil_bps": 1210,
+    "nama_wil_bps": "DAIRI",
+    "parent": 12,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 1206,
+    "nama": "KAB. KARO",
+    "kode_wil_bps": 1211,
+    "nama_wil_bps": "KARO",
+    "parent": 12,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 1207,
+    "nama": "KAB. DELI SERDANG",
+    "kode_wil_bps": 1212,
+    "nama_wil_bps": "DELI SERDANG",
+    "parent": 12,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 1205,
+    "nama": "KAB. LANGKAT",
+    "kode_wil_bps": 1213,
+    "nama_wil_bps": "LANGKAT",
+    "parent": 12,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 1214,
+    "nama": "KAB. NIAS SELATAN",
+    "kode_wil_bps": 1214,
+    "nama_wil_bps": "NIAS SELATAN",
+    "parent": 12,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 1216,
+    "nama": "KAB. HUMBANG HASUNDUTAN",
+    "kode_wil_bps": 1215,
+    "nama_wil_bps": "HUMBANG HASUNDUTAN",
+    "parent": 12,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 1215,
+    "nama": "KAB. PAKPAK BHARAT",
+    "kode_wil_bps": 1216,
+    "nama_wil_bps": "PAKPAK BHARAT",
+    "parent": 12,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 1217,
+    "nama": "KAB. SAMOSIR",
+    "kode_wil_bps": 1217,
+    "nama_wil_bps": "SAMOSIR",
+    "parent": 12,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 1218,
+    "nama": "KAB. SERDANG BEDAGAI",
+    "kode_wil_bps": 1218,
+    "nama_wil_bps": "SERDANG BEDAGAI",
+    "parent": 12,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 1219,
+    "nama": "KAB. BATU BARA",
+    "kode_wil_bps": 1219,
+    "nama_wil_bps": "BATU BARA",
+    "parent": 12,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 1220,
+    "nama": "KAB. PADANG LAWAS UTARA",
+    "kode_wil_bps": 1220,
+    "nama_wil_bps": "PADANG LAWAS UTARA",
+    "parent": 12,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 1221,
+    "nama": "KAB. PADANG LAWAS",
+    "kode_wil_bps": 1221,
+    "nama_wil_bps": "PADANG LAWAS",
+    "parent": 12,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 1222,
+    "nama": "KAB. LABUHANBATU SELATAN",
+    "kode_wil_bps": 1222,
+    "nama_wil_bps": "LABUHAN BATU SELATAN",
+    "parent": 12,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 1223,
+    "nama": "KAB. LABUHANBATU UTARA",
+    "kode_wil_bps": 1223,
+    "nama_wil_bps": "LABUHAN BATU UTARA",
+    "parent": 12,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 1224,
+    "nama": "KAB. NIAS UTARA",
+    "kode_wil_bps": 1224,
+    "nama_wil_bps": "NIAS UTARA",
+    "parent": 12,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 1225,
+    "nama": "KAB. NIAS BARAT",
+    "kode_wil_bps": 1225,
+    "nama_wil_bps": "NIAS BARAT",
+    "parent": 12,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 1273,
+    "nama": "KOTA SIBOLGA",
+    "kode_wil_bps": 1271,
+    "nama_wil_bps": "SIBOLGA",
+    "parent": 12,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 1274,
+    "nama": "KOTA TANJUNG BALAI",
+    "kode_wil_bps": 1272,
+    "nama_wil_bps": "TANJUNG BALAI",
+    "parent": 12,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 1272,
+    "nama": "KOTA PEMATANGSIANTAR",
+    "kode_wil_bps": 1273,
+    "nama_wil_bps": "PEMATANG SIANTAR",
+    "parent": 12,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 1276,
+    "nama": "KOTA TEBING TINGGI",
+    "kode_wil_bps": 1274,
+    "nama_wil_bps": "TEBING TINGGI",
+    "parent": 12,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 1271,
+    "nama": "KOTA MEDAN",
+    "kode_wil_bps": 1275,
+    "nama_wil_bps": "MEDAN",
+    "parent": 12,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 1275,
+    "nama": "KOTA BINJAI",
+    "kode_wil_bps": 1276,
+    "nama_wil_bps": "BINJAI",
+    "parent": 12,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 1277,
+    "nama": "KOTA PADANG SIDEMPUAN",
+    "kode_wil_bps": 1277,
+    "nama_wil_bps": "PADANGSIDIMPUAN",
+    "parent": 12,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 1278,
+    "nama": "KOTA GUNUNGSITOLI",
+    "kode_wil_bps": 1278,
+    "nama_wil_bps": "GUNUNGSITOLI",
+    "parent": 12,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 1309,
+    "nama": "KAB. KEPULAUAN MENTAWAI",
+    "kode_wil_bps": 1301,
+    "nama_wil_bps": "KEPULAUAN MENTAWAI",
+    "parent": 13,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 1301,
+    "nama": "KAB. PESISIR SELATAN",
+    "kode_wil_bps": 1302,
+    "nama_wil_bps": "PESISIR SELATAN",
+    "parent": 13,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 1302,
+    "nama": "KAB. SOLOK",
+    "kode_wil_bps": 1303,
+    "nama_wil_bps": "SOLOK",
+    "parent": 13,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 1303,
+    "nama": "KAB. SIJUNJUNG",
+    "kode_wil_bps": 1304,
+    "nama_wil_bps": "SIJUNJUNG",
+    "parent": 13,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 1304,
+    "nama": "KAB. TANAH DATAR",
+    "kode_wil_bps": 1305,
+    "nama_wil_bps": "TANAH DATAR",
+    "parent": 13,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 1305,
+    "nama": "KAB. PADANG PARIAMAN",
+    "kode_wil_bps": 1306,
+    "nama_wil_bps": "PADANG PARIAMAN",
+    "parent": 13,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 1306,
+    "nama": "KAB. AGAM",
+    "kode_wil_bps": 1307,
+    "nama_wil_bps": "AGAM",
+    "parent": 13,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 1307,
+    "nama": "KAB. LIMA PULUH KOTA",
+    "kode_wil_bps": 1308,
+    "nama_wil_bps": "LIMA PULUH KOTA",
+    "parent": 13,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 1308,
+    "nama": "KAB. PASAMAN",
+    "kode_wil_bps": 1309,
+    "nama_wil_bps": "PASAMAN",
+    "parent": 13,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 1311,
+    "nama": "KAB. SOLOK SELATAN",
+    "kode_wil_bps": 1310,
+    "nama_wil_bps": "SOLOK SELATAN",
+    "parent": 13,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 1310,
+    "nama": "KAB. DHARMASRAYA",
+    "kode_wil_bps": 1311,
+    "nama_wil_bps": "DHARMASRAYA",
+    "parent": 13,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 1312,
+    "nama": "KAB. PASAMAN BARAT",
+    "kode_wil_bps": 1312,
+    "nama_wil_bps": "PASAMAN BARAT",
+    "parent": 13,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 1371,
+    "nama": "KOTA PADANG",
+    "kode_wil_bps": 1371,
+    "nama_wil_bps": "PADANG",
+    "parent": 13,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 1372,
+    "nama": "KOTA SOLOK",
+    "kode_wil_bps": 1372,
+    "nama_wil_bps": "SOLOK",
+    "parent": 13,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 1373,
+    "nama": "KOTA SAWAHLUNTO",
+    "kode_wil_bps": 1373,
+    "nama_wil_bps": "SAWAH LUNTO",
+    "parent": 13,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 1374,
+    "nama": "KOTA PADANG PANJANG",
+    "kode_wil_bps": 1374,
+    "nama_wil_bps": "PADANG PANJANG",
+    "parent": 13,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 1375,
+    "nama": "KOTA BUKITTINGGI",
+    "kode_wil_bps": 1375,
+    "nama_wil_bps": "BUKITTINGGI",
+    "parent": 13,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 1376,
+    "nama": "KOTA PAYAKUMBUH",
+    "kode_wil_bps": 1376,
+    "nama_wil_bps": "PAYAKUMBUH",
+    "parent": 13,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 1377,
+    "nama": "KOTA PARIAMAN",
+    "kode_wil_bps": 1377,
+    "nama_wil_bps": "PARIAMAN",
+    "parent": 13,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 1409,
+    "nama": "KAB. KUANTAN SINGINGI",
+    "kode_wil_bps": 1401,
+    "nama_wil_bps": "KUANTAN SINGINGI",
+    "parent": 14,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 1402,
+    "nama": "KAB. INDRAGIRI HULU",
+    "kode_wil_bps": 1402,
+    "nama_wil_bps": "INDRAGIRI HULU",
+    "parent": 14,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 1404,
+    "nama": "KAB. INDRAGIRI HILIR",
+    "kode_wil_bps": 1403,
+    "nama_wil_bps": "INDRAGIRI HILIR",
+    "parent": 14,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 1405,
+    "nama": "KAB.  PELALAWAN",
+    "kode_wil_bps": 1404,
+    "nama_wil_bps": "PELALAWAN",
+    "parent": 14,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 1408,
+    "nama": "KAB. SIAK",
+    "kode_wil_bps": 1405,
+    "nama_wil_bps": "S I A K",
+    "parent": 14,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 1401,
+    "nama": "KAB. KAMPAR",
+    "kode_wil_bps": 1406,
+    "nama_wil_bps": "KAMPAR",
+    "parent": 14,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 1406,
+    "nama": "KAB.  ROKAN HULU",
+    "kode_wil_bps": 1407,
+    "nama_wil_bps": "ROKAN HULU",
+    "parent": 14,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 1403,
+    "nama": "KAB. BENGKALIS",
+    "kode_wil_bps": 1408,
+    "nama_wil_bps": "BENGKALIS",
+    "parent": 14,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 1407,
+    "nama": "KAB.  ROKAN HILIR",
+    "kode_wil_bps": 1409,
+    "nama_wil_bps": "ROKAN HILIR",
+    "parent": 14,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 1410,
+    "nama": "KAB. KEPULAUAN MERANTI",
+    "kode_wil_bps": 1410,
+    "nama_wil_bps": "KEPULAUAN MERANTI",
+    "parent": 14,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 1471,
+    "nama": "KOTA PEKANBARU",
+    "kode_wil_bps": 1471,
+    "nama_wil_bps": "PEKANBARU",
+    "parent": 14,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 1472,
+    "nama": "KOTA DUMAI",
+    "kode_wil_bps": 1473,
+    "nama_wil_bps": "D U M A I",
+    "parent": 14,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 1501,
+    "nama": "KAB.  KERINCI",
+    "kode_wil_bps": 1501,
+    "nama_wil_bps": "KERINCI",
+    "parent": 15,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 1502,
+    "nama": "KAB.  MERANGIN",
+    "kode_wil_bps": 1502,
+    "nama_wil_bps": "MERANGIN",
+    "parent": 15,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 1503,
+    "nama": "KAB. SAROLANGUN",
+    "kode_wil_bps": 1503,
+    "nama_wil_bps": "SAROLANGUN",
+    "parent": 15,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 1504,
+    "nama": "KAB. BATANGHARI",
+    "kode_wil_bps": 1504,
+    "nama_wil_bps": "BATANG HARI",
+    "parent": 15,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 1505,
+    "nama": "KAB.  MUARO JAMBI",
+    "kode_wil_bps": 1505,
+    "nama_wil_bps": "MUARO JAMBI",
+    "parent": 15,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 1507,
+    "nama": "KAB. TANJUNG JABUNG TIMUR",
+    "kode_wil_bps": 1506,
+    "nama_wil_bps": "TANJUNG JABUNG TIMUR",
+    "parent": 15,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 1506,
+    "nama": "KAB. TANJUNG JABUNG BARAT",
+    "kode_wil_bps": 1507,
+    "nama_wil_bps": "TANJUNG JABUNG BARAT",
+    "parent": 15,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 1509,
+    "nama": "KAB. TEBO",
+    "kode_wil_bps": 1508,
+    "nama_wil_bps": "TEBO",
+    "parent": 15,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 1508,
+    "nama": "KAB. BUNGO",
+    "kode_wil_bps": 1509,
+    "nama_wil_bps": "BUNGO",
+    "parent": 15,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 1571,
+    "nama": "KOTA JAMBI",
+    "kode_wil_bps": 1571,
+    "nama_wil_bps": "JAMBI",
+    "parent": 15,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 1572,
+    "nama": "KOTA SUNGAI PENUH",
+    "kode_wil_bps": 1572,
+    "nama_wil_bps": "SUNGAI PENUH",
+    "parent": 15,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 1601,
+    "nama": "KAB. OGAN KOMERING ULU",
+    "kode_wil_bps": 1601,
+    "nama_wil_bps": "OGAN KOMERING ULU",
+    "parent": 16,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 1602,
+    "nama": "KAB. OGAN KOMERING ILIR",
+    "kode_wil_bps": 1602,
+    "nama_wil_bps": "OGAN KOMERING ILIR",
+    "parent": 16,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 1603,
+    "nama": "KAB. MUARA ENIM",
+    "kode_wil_bps": 1603,
+    "nama_wil_bps": "MUARA ENIM",
+    "parent": 16,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 1604,
+    "nama": "KAB. LAHAT",
+    "kode_wil_bps": 1604,
+    "nama_wil_bps": "LAHAT",
+    "parent": 16,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 1605,
+    "nama": "KAB. MUSI RAWAS",
+    "kode_wil_bps": 1605,
+    "nama_wil_bps": "MUSI RAWAS",
+    "parent": 16,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 1606,
+    "nama": "KAB. MUSI BANYUASIN",
+    "kode_wil_bps": 1606,
+    "nama_wil_bps": "MUSI BANYUASIN",
+    "parent": 16,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 1607,
+    "nama": "KAB. BANYUASIN",
+    "kode_wil_bps": 1607,
+    "nama_wil_bps": "BANYU ASIN",
+    "parent": 16,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 1609,
+    "nama": "KAB. OGAN KOMERING ULU",
+    "kode_wil_bps": 1608,
+    "nama_wil_bps": "OGAN KOMERING ULU SELATAN",
+    "parent": 16,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 1608,
+    "nama": "KAB. OGAN KOMERING ULU",
+    "kode_wil_bps": 1609,
+    "nama_wil_bps": "OGAN KOMERING ULU TIMUR",
+    "parent": 16,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 1610,
+    "nama": "KAB. OGAN ILIR",
+    "kode_wil_bps": 1610,
+    "nama_wil_bps": "OGAN ILIR",
+    "parent": 16,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 1611,
+    "nama": "KAB. EMPAT LAWANG",
+    "kode_wil_bps": 1611,
+    "nama_wil_bps": "EMPAT LAWANG",
+    "parent": 16,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 1612,
+    "nama": "KAB. PENUKAL ABAB LEMATANG",
+    "kode_wil_bps": 1612,
+    "nama_wil_bps": "PENUKAL ABAB LEMATANG ILIR",
+    "parent": 16,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 1613,
+    "nama": "KAB. MUSI RAWAS UTARA",
+    "kode_wil_bps": 1613,
+    "nama_wil_bps": "MUSI RAWAS UTARA",
+    "parent": 16,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 1671,
+    "nama": "KOTA PALEMBANG",
+    "kode_wil_bps": 1671,
+    "nama_wil_bps": "PALEMBANG",
+    "parent": 16,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 1674,
+    "nama": "KOTA PRABUMULIH",
+    "kode_wil_bps": 1672,
+    "nama_wil_bps": "PRABUMULIH",
+    "parent": 16,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 1672,
+    "nama": "KOTA PAGAR ALAM",
+    "kode_wil_bps": 1673,
+    "nama_wil_bps": "PAGAR ALAM",
+    "parent": 16,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 1673,
+    "nama": "KOTA LUBUK LINGGAU",
+    "kode_wil_bps": 1674,
+    "nama_wil_bps": "LUBUKLINGGAU",
+    "parent": 16,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 1701,
+    "nama": "KAB. BENGKULU SELATAN",
+    "kode_wil_bps": 1701,
+    "nama_wil_bps": "BENGKULU SELATAN",
+    "parent": 17,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 1702,
+    "nama": "KAB. REJANG LEBONG",
+    "kode_wil_bps": 1702,
+    "nama_wil_bps": "REJANG LEBONG",
+    "parent": 17,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 1703,
+    "nama": "KAB. BENGKULU UTARA",
+    "kode_wil_bps": 1703,
+    "nama_wil_bps": "BENGKULU UTARA",
+    "parent": 17,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 1704,
+    "nama": "KAB. KAUR",
+    "kode_wil_bps": 1704,
+    "nama_wil_bps": "KAUR",
+    "parent": 17,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 1705,
+    "nama": "KAB. SELUMA",
+    "kode_wil_bps": 1705,
+    "nama_wil_bps": "SELUMA",
+    "parent": 17,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 1706,
+    "nama": "KAB. MUKO MUKO",
+    "kode_wil_bps": 1706,
+    "nama_wil_bps": "MUKOMUKO",
+    "parent": 17,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 1707,
+    "nama": "KAB. LEBONG",
+    "kode_wil_bps": 1707,
+    "nama_wil_bps": "LEBONG",
+    "parent": 17,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 1708,
+    "nama": "KAB. KEPAHIANG",
+    "kode_wil_bps": 1708,
+    "nama_wil_bps": "KEPAHIANG",
+    "parent": 17,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 1709,
+    "nama": "KAB. BENGKULU TENGAH",
+    "kode_wil_bps": 1709,
+    "nama_wil_bps": "BENGKULU TENGAH",
+    "parent": 17,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 1771,
+    "nama": "KOTA BENGKULU",
+    "kode_wil_bps": 1771,
+    "nama_wil_bps": "BENGKULU",
+    "parent": 17,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 1804,
+    "nama": "KAB. LAMPUNG BARAT",
+    "kode_wil_bps": 1801,
+    "nama_wil_bps": "LAMPUNG BARAT",
+    "parent": 18,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 1806,
+    "nama": "KAB. TANGGAMUS",
+    "kode_wil_bps": 1802,
+    "nama_wil_bps": "TANGGAMUS",
+    "parent": 18,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 1801,
+    "nama": "KAB. LAMPUNG SELATAN",
+    "kode_wil_bps": 1803,
+    "nama_wil_bps": "LAMPUNG SELATAN",
+    "parent": 18,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 1807,
+    "nama": "KAB. LAMPUNG TIMUR",
+    "kode_wil_bps": 1804,
+    "nama_wil_bps": "LAMPUNG TIMUR",
+    "parent": 18,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 1802,
+    "nama": "KAB. LAMPUNG TENGAH",
+    "kode_wil_bps": 1805,
+    "nama_wil_bps": "LAMPUNG TENGAH",
+    "parent": 18,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 1803,
+    "nama": "KAB. LAMPUNG UTARA",
+    "kode_wil_bps": 1806,
+    "nama_wil_bps": "LAMPUNG UTARA",
+    "parent": 18,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 1808,
+    "nama": "KAB. WAY KANAN",
+    "kode_wil_bps": 1807,
+    "nama_wil_bps": "WAY KANAN",
+    "parent": 18,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 1805,
+    "nama": "KAB. TULANG BAWANG",
+    "kode_wil_bps": 1808,
+    "nama_wil_bps": "TULANGBAWANG",
+    "parent": 18,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 1809,
+    "nama": "KAB. PESAWARAN",
+    "kode_wil_bps": 1809,
+    "nama_wil_bps": "PESAWARAN",
+    "parent": 18,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 1810,
+    "nama": "KAB. PRINGSEWU",
+    "kode_wil_bps": 1810,
+    "nama_wil_bps": "PRINGSEWU",
+    "parent": 18,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 1811,
+    "nama": "KAB. MESUJI",
+    "kode_wil_bps": 1811,
+    "nama_wil_bps": "MESUJI",
+    "parent": 18,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 1812,
+    "nama": "KAB. TULANG BAWANG BARAT",
+    "kode_wil_bps": 1812,
+    "nama_wil_bps": "TULANG BAWANG BARAT",
+    "parent": 18,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 1813,
+    "nama": "KAB. PESISIR BARAT",
+    "kode_wil_bps": 1813,
+    "nama_wil_bps": "PESISIR BARAT",
+    "parent": 18,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 1871,
+    "nama": "KOTA BANDAR LAMPUNG",
+    "kode_wil_bps": 1871,
+    "nama_wil_bps": "BANDAR LAMPUNG",
+    "parent": 18,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 1872,
+    "nama": "KOTA METRO",
+    "kode_wil_bps": 1872,
+    "nama_wil_bps": "METRO",
+    "parent": 18,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 1901,
+    "nama": "KAB. BANGKA",
+    "kode_wil_bps": 1901,
+    "nama_wil_bps": "BANGKA",
+    "parent": 19,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 1902,
+    "nama": "KAB. BELITUNG",
+    "kode_wil_bps": 1902,
+    "nama_wil_bps": "BELITUNG",
+    "parent": 19,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 1905,
+    "nama": "KAB. BANGKA BARAT",
+    "kode_wil_bps": 1903,
+    "nama_wil_bps": "BANGKA BARAT",
+    "parent": 19,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 1904,
+    "nama": "KAB. BANGKA TENGAH",
+    "kode_wil_bps": 1904,
+    "nama_wil_bps": "BANGKA TENGAH",
+    "parent": 19,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 1903,
+    "nama": "KAB. BANGKA SELATAN",
+    "kode_wil_bps": 1905,
+    "nama_wil_bps": "BANGKA SELATAN",
+    "parent": 19,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 1906,
+    "nama": "KAB. BELITUNG TIMUR",
+    "kode_wil_bps": 1906,
+    "nama_wil_bps": "BELITUNG TIMUR",
+    "parent": 19,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 1971,
+    "nama": "KOTA PANGKAL PINANG",
+    "kode_wil_bps": 1971,
+    "nama_wil_bps": "PANGKALPINANG",
+    "parent": 19,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 2102,
+    "nama": "KAB. KARIMUN",
+    "kode_wil_bps": 2101,
+    "nama_wil_bps": "KARIMUN",
+    "parent": 21,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 2101,
+    "nama": "KAB. BINTAN",
+    "kode_wil_bps": 2102,
+    "nama_wil_bps": "BINTAN",
+    "parent": 21,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 2103,
+    "nama": "KAB. NATUNA",
+    "kode_wil_bps": 2103,
+    "nama_wil_bps": "NATUNA",
+    "parent": 21,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 2104,
+    "nama": "KAB. LINGGA",
+    "kode_wil_bps": 2104,
+    "nama_wil_bps": "LINGGA",
+    "parent": 21,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 2105,
+    "nama": "KAB. KEPULAUAN ANAMBAS",
+    "kode_wil_bps": 2105,
+    "nama_wil_bps": "KEPULAUAN ANAMBAS",
+    "parent": 21,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 2171,
+    "nama": "KOTA BATAM",
+    "kode_wil_bps": 2171,
+    "nama_wil_bps": "B A T A M",
+    "parent": 21,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 2172,
+    "nama": "KOTA TANJUNG PINANG",
+    "kode_wil_bps": 2172,
+    "nama_wil_bps": "TANJUNG PINANG",
+    "parent": 21,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 3101,
+    "nama": "KAB. ADM. KEP. SERIBU",
+    "kode_wil_bps": 3101,
+    "nama_wil_bps": "KEPULAUAN SERIBU",
+    "parent": 31,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 3174,
+    "nama": "KOTA ADM. JAKARTA SELATAN",
+    "kode_wil_bps": 3171,
+    "nama_wil_bps": "JAKARTA SELATAN",
+    "parent": 31,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 3175,
+    "nama": "KOTA ADM. JAKARTA TIMUR",
+    "kode_wil_bps": 3172,
+    "nama_wil_bps": "JAKARTA TIMUR",
+    "parent": 31,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 3171,
+    "nama": "KOTA ADM. JAKARTA PUSAT",
+    "kode_wil_bps": 3173,
+    "nama_wil_bps": "JAKARTA PUSAT",
+    "parent": 31,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 3173,
+    "nama": "KOTA ADM. JAKARTA BARAT",
+    "kode_wil_bps": 3174,
+    "nama_wil_bps": "JAKARTA BARAT",
+    "parent": 31,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 3172,
+    "nama": "KOTA ADM. JAKARTA UTARA",
+    "kode_wil_bps": 3175,
+    "nama_wil_bps": "JAKARTA UTARA",
+    "parent": 31,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 3201,
+    "nama": "KAB. BOGOR",
+    "kode_wil_bps": 3201,
+    "nama_wil_bps": "BOGOR",
+    "parent": 32,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 3202,
+    "nama": "KAB. SUKABUMI",
+    "kode_wil_bps": 3202,
+    "nama_wil_bps": "SUKABUMI",
+    "parent": 32,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 3203,
+    "nama": "KAB. CIANJUR",
+    "kode_wil_bps": 3203,
+    "nama_wil_bps": "CIANJUR",
+    "parent": 32,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 3204,
+    "nama": "KAB. BANDUNG",
+    "kode_wil_bps": 3204,
+    "nama_wil_bps": "BANDUNG",
+    "parent": 32,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 3205,
+    "nama": "KAB. GARUT",
+    "kode_wil_bps": 3205,
+    "nama_wil_bps": "GARUT",
+    "parent": 32,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 3206,
+    "nama": "KAB. TASIKMALAYA",
+    "kode_wil_bps": 3206,
+    "nama_wil_bps": "TASIKMALAYA",
+    "parent": 32,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 3207,
+    "nama": "KAB. CIAMIS",
+    "kode_wil_bps": 3207,
+    "nama_wil_bps": "CIAMIS",
+    "parent": 32,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 3208,
+    "nama": "KAB. KUNINGAN",
+    "kode_wil_bps": 3208,
+    "nama_wil_bps": "KUNINGAN",
+    "parent": 32,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 3209,
+    "nama": "KAB. CIREBON",
+    "kode_wil_bps": 3209,
+    "nama_wil_bps": "CIREBON",
+    "parent": 32,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 3210,
+    "nama": "KAB. MAJALENGKA",
+    "kode_wil_bps": 3210,
+    "nama_wil_bps": "MAJALENGKA",
+    "parent": 32,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 3211,
+    "nama": "KAB. SUMEDANG",
+    "kode_wil_bps": 3211,
+    "nama_wil_bps": "SUMEDANG",
+    "parent": 32,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 3212,
+    "nama": "KAB. INDRAMAYU",
+    "kode_wil_bps": 3212,
+    "nama_wil_bps": "INDRAMAYU",
+    "parent": 32,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 3213,
+    "nama": "KAB. SUBANG",
+    "kode_wil_bps": 3213,
+    "nama_wil_bps": "SUBANG",
+    "parent": 32,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 3214,
+    "nama": "KAB. PURWAKARTA",
+    "kode_wil_bps": 3214,
+    "nama_wil_bps": "PURWAKARTA",
+    "parent": 32,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 3215,
+    "nama": "KAB. KARAWANG",
+    "kode_wil_bps": 3215,
+    "nama_wil_bps": "KARAWANG",
+    "parent": 32,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 3216,
+    "nama": "KAB. BEKASI",
+    "kode_wil_bps": 3216,
+    "nama_wil_bps": "BEKASI",
+    "parent": 32,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 3217,
+    "nama": "KAB. BANDUNG BARAT",
+    "kode_wil_bps": 3217,
+    "nama_wil_bps": "BANDUNG BARAT",
+    "parent": 32,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 3218,
+    "nama": "KAB. PANGANDARAN",
+    "kode_wil_bps": 3218,
+    "nama_wil_bps": "PANGANDARAN",
+    "parent": 32,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 3271,
+    "nama": "KOTA BOGOR",
+    "kode_wil_bps": 3271,
+    "nama_wil_bps": "BOGOR",
+    "parent": 32,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 3272,
+    "nama": "KOTA SUKABUMI",
+    "kode_wil_bps": 3272,
+    "nama_wil_bps": "SUKABUMI",
+    "parent": 32,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 3273,
+    "nama": "KOTA BANDUNG",
+    "kode_wil_bps": 3273,
+    "nama_wil_bps": "BANDUNG",
+    "parent": 32,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 3274,
+    "nama": "KOTA CIREBON",
+    "kode_wil_bps": 3274,
+    "nama_wil_bps": "CIREBON",
+    "parent": 32,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 3275,
+    "nama": "KOTA BEKASI",
+    "kode_wil_bps": 3275,
+    "nama_wil_bps": "BEKASI",
+    "parent": 32,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 3276,
+    "nama": "KOTA DEPOK",
+    "kode_wil_bps": 3276,
+    "nama_wil_bps": "DEPOK",
+    "parent": 32,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 3277,
+    "nama": "KOTA CIMAHI",
+    "kode_wil_bps": 3277,
+    "nama_wil_bps": "CIMAHI",
+    "parent": 32,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 3278,
+    "nama": "KOTA TASIKMALAYA",
+    "kode_wil_bps": 3278,
+    "nama_wil_bps": "TASIKMALAYA",
+    "parent": 32,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 3279,
+    "nama": "KOTA BANJAR",
+    "kode_wil_bps": 3279,
+    "nama_wil_bps": "BANJAR",
+    "parent": 32,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 3301,
+    "nama": "KAB. CILACAP",
+    "kode_wil_bps": 3301,
+    "nama_wil_bps": "CILACAP",
+    "parent": 33,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 3302,
+    "nama": "KAB. BANYUMAS",
+    "kode_wil_bps": 3302,
+    "nama_wil_bps": "BANYUMAS",
+    "parent": 33,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 3303,
+    "nama": "KAB. PURBALINGGA",
+    "kode_wil_bps": 3303,
+    "nama_wil_bps": "PURBALINGGA",
+    "parent": 33,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 3304,
+    "nama": "KAB. BANJARNEGARA",
+    "kode_wil_bps": 3304,
+    "nama_wil_bps": "BANJARNEGARA",
+    "parent": 33,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 3305,
+    "nama": "KAB. KEBUMEN",
+    "kode_wil_bps": 3305,
+    "nama_wil_bps": "KEBUMEN",
+    "parent": 33,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 3306,
+    "nama": "KAB. PURWOREJO",
+    "kode_wil_bps": 3306,
+    "nama_wil_bps": "PURWOREJO",
+    "parent": 33,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 3307,
+    "nama": "KAB. WONOSOBO",
+    "kode_wil_bps": 3307,
+    "nama_wil_bps": "WONOSOBO",
+    "parent": 33,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 3308,
+    "nama": "KAB. MAGELANG",
+    "kode_wil_bps": 3308,
+    "nama_wil_bps": "MAGELANG",
+    "parent": 33,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 3309,
+    "nama": "KAB. BOYOLALI",
+    "kode_wil_bps": 3309,
+    "nama_wil_bps": "BOYOLALI",
+    "parent": 33,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 3310,
+    "nama": "KAB. KLATEN",
+    "kode_wil_bps": 3310,
+    "nama_wil_bps": "KLATEN",
+    "parent": 33,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 3311,
+    "nama": "KAB. SUKOHARJO",
+    "kode_wil_bps": 3311,
+    "nama_wil_bps": "SUKOHARJO",
+    "parent": 33,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 3312,
+    "nama": "KAB. WONOGIRI",
+    "kode_wil_bps": 3312,
+    "nama_wil_bps": "WONOGIRI",
+    "parent": 33,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 3313,
+    "nama": "KAB. KARANGANYAR",
+    "kode_wil_bps": 3313,
+    "nama_wil_bps": "KARANGANYAR",
+    "parent": 33,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 3314,
+    "nama": "KAB. SRAGEN",
+    "kode_wil_bps": 3314,
+    "nama_wil_bps": "SRAGEN",
+    "parent": 33,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 3315,
+    "nama": "KAB. GROBOGAN",
+    "kode_wil_bps": 3315,
+    "nama_wil_bps": "GROBOGAN",
+    "parent": 33,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 3316,
+    "nama": "KAB. BLORA",
+    "kode_wil_bps": 3316,
+    "nama_wil_bps": "BLORA",
+    "parent": 33,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 3317,
+    "nama": "KAB. REMBANG",
+    "kode_wil_bps": 3317,
+    "nama_wil_bps": "REMBANG",
+    "parent": 33,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 3318,
+    "nama": "KAB. PATI",
+    "kode_wil_bps": 3318,
+    "nama_wil_bps": "PATI",
+    "parent": 33,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 3319,
+    "nama": "KAB. KUDUS",
+    "kode_wil_bps": 3319,
+    "nama_wil_bps": "KUDUS",
+    "parent": 33,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 3320,
+    "nama": "KAB. JEPARA",
+    "kode_wil_bps": 3320,
+    "nama_wil_bps": "JEPARA",
+    "parent": 33,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 3321,
+    "nama": "KAB. DEMAK",
+    "kode_wil_bps": 3321,
+    "nama_wil_bps": "DEMAK",
+    "parent": 33,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 3322,
+    "nama": "KAB. SEMARANG",
+    "kode_wil_bps": 3322,
+    "nama_wil_bps": "SEMARANG",
+    "parent": 33,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 3323,
+    "nama": "KAB. TEMANGGUNG",
+    "kode_wil_bps": 3323,
+    "nama_wil_bps": "TEMANGGUNG",
+    "parent": 33,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 3324,
+    "nama": "KAB. KENDAL",
+    "kode_wil_bps": 3324,
+    "nama_wil_bps": "KENDAL",
+    "parent": 33,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 3325,
+    "nama": "KAB. BATANG",
+    "kode_wil_bps": 3325,
+    "nama_wil_bps": "BATANG",
+    "parent": 33,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 3326,
+    "nama": "KAB. PEKALONGAN",
+    "kode_wil_bps": 3326,
+    "nama_wil_bps": "PEKALONGAN",
+    "parent": 33,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 3327,
+    "nama": "KAB. PEMALANG",
+    "kode_wil_bps": 3327,
+    "nama_wil_bps": "PEMALANG",
+    "parent": 33,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 3328,
+    "nama": "KAB. TEGAL",
+    "kode_wil_bps": 3328,
+    "nama_wil_bps": "TEGAL",
+    "parent": 33,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 3329,
+    "nama": "KAB. BREBES",
+    "kode_wil_bps": 3329,
+    "nama_wil_bps": "BREBES",
+    "parent": 33,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 3371,
+    "nama": "KOTA MAGELANG",
+    "kode_wil_bps": 3371,
+    "nama_wil_bps": "MAGELANG",
+    "parent": 33,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 3372,
+    "nama": "KOTA SURAKARTA",
+    "kode_wil_bps": 3372,
+    "nama_wil_bps": "SURAKARTA",
+    "parent": 33,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 3373,
+    "nama": "KOTA SALATIGA",
+    "kode_wil_bps": 3373,
+    "nama_wil_bps": "SALATIGA",
+    "parent": 33,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 3374,
+    "nama": "KOTA SEMARANG",
+    "kode_wil_bps": 3374,
+    "nama_wil_bps": "SEMARANG",
+    "parent": 33,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 3375,
+    "nama": "KOTA PEKALONGAN",
+    "kode_wil_bps": 3375,
+    "nama_wil_bps": "PEKALONGAN",
+    "parent": 33,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 3376,
+    "nama": "KOTA TEGAL",
+    "kode_wil_bps": 3376,
+    "nama_wil_bps": "TEGAL",
+    "parent": 33,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 3401,
+    "nama": "KAB. KULON PROGO",
+    "kode_wil_bps": 3401,
+    "nama_wil_bps": "KULON PROGO",
+    "parent": 34,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 3402,
+    "nama": "KAB. BANTUL",
+    "kode_wil_bps": 3402,
+    "nama_wil_bps": "BANTUL",
+    "parent": 34,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 3403,
+    "nama": "KAB. GUNUNGKIDUL",
+    "kode_wil_bps": 3403,
+    "nama_wil_bps": "GUNUNGKIDUL",
+    "parent": 34,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 3404,
+    "nama": "KAB. SLEMAN",
+    "kode_wil_bps": 3404,
+    "nama_wil_bps": "SLEMAN",
+    "parent": 34,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 3471,
+    "nama": "KOTA YOGYAKARTA",
+    "kode_wil_bps": 3471,
+    "nama_wil_bps": "YOGYAKARTA",
+    "parent": 34,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 3501,
+    "nama": "KAB. PACITAN",
+    "kode_wil_bps": 3501,
+    "nama_wil_bps": "PACITAN",
+    "parent": 35,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 3502,
+    "nama": "KAB. PONOROGO",
+    "kode_wil_bps": 3502,
+    "nama_wil_bps": "PONOROGO",
+    "parent": 35,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 3503,
+    "nama": "KAB. TRENGGALEK",
+    "kode_wil_bps": 3503,
+    "nama_wil_bps": "TRENGGALEK",
+    "parent": 35,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 3504,
+    "nama": "KAB. TULUNGAGUNG",
+    "kode_wil_bps": 3504,
+    "nama_wil_bps": "TULUNGAGUNG",
+    "parent": 35,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 3505,
+    "nama": "KAB. BLITAR",
+    "kode_wil_bps": 3505,
+    "nama_wil_bps": "BLITAR",
+    "parent": 35,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 3506,
+    "nama": "KAB. KEDIRI",
+    "kode_wil_bps": 3506,
+    "nama_wil_bps": "KEDIRI",
+    "parent": 35,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 3507,
+    "nama": "KAB. MALANG",
+    "kode_wil_bps": 3507,
+    "nama_wil_bps": "MALANG",
+    "parent": 35,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 3508,
+    "nama": "KAB. LUMAJANG",
+    "kode_wil_bps": 3508,
+    "nama_wil_bps": "LUMAJANG",
+    "parent": 35,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 3509,
+    "nama": "KAB. JEMBER",
+    "kode_wil_bps": 3509,
+    "nama_wil_bps": "JEMBER",
+    "parent": 35,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 3510,
+    "nama": "KAB. BANYUWANGI",
+    "kode_wil_bps": 3510,
+    "nama_wil_bps": "BANYUWANGI",
+    "parent": 35,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 3511,
+    "nama": "KAB. BONDOWOSO",
+    "kode_wil_bps": 3511,
+    "nama_wil_bps": "BONDOWOSO",
+    "parent": 35,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 3512,
+    "nama": "KAB. SITUBONDO",
+    "kode_wil_bps": 3512,
+    "nama_wil_bps": "SITUBONDO",
+    "parent": 35,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 3513,
+    "nama": "KAB. PROBOLINGGO",
+    "kode_wil_bps": 3513,
+    "nama_wil_bps": "PROBOLINGGO",
+    "parent": 35,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 3514,
+    "nama": "KAB. PASURUAN",
+    "kode_wil_bps": 3514,
+    "nama_wil_bps": "PASURUAN",
+    "parent": 35,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 3515,
+    "nama": "KAB. SIDOARJO",
+    "kode_wil_bps": 3515,
+    "nama_wil_bps": "SIDOARJO",
+    "parent": 35,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 3516,
+    "nama": "KAB. MOJOKERTO",
+    "kode_wil_bps": 3516,
+    "nama_wil_bps": "MOJOKERTO",
+    "parent": 35,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 3517,
+    "nama": "KAB. JOMBANG",
+    "kode_wil_bps": 3517,
+    "nama_wil_bps": "JOMBANG",
+    "parent": 35,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 3518,
+    "nama": "KAB. NGANJUK",
+    "kode_wil_bps": 3518,
+    "nama_wil_bps": "NGANJUK",
+    "parent": 35,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 3519,
+    "nama": "KAB. MADIUN",
+    "kode_wil_bps": 3519,
+    "nama_wil_bps": "MADIUN",
+    "parent": 35,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 3520,
+    "nama": "KAB. MAGETAN",
+    "kode_wil_bps": 3520,
+    "nama_wil_bps": "MAGETAN",
+    "parent": 35,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 3521,
+    "nama": "KAB. NGAWI",
+    "kode_wil_bps": 3521,
+    "nama_wil_bps": "NGAWI",
+    "parent": 35,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 3522,
+    "nama": "KAB. BOJONEGORO",
+    "kode_wil_bps": 3522,
+    "nama_wil_bps": "BOJONEGORO",
+    "parent": 35,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 3523,
+    "nama": "KAB. TUBAN",
+    "kode_wil_bps": 3523,
+    "nama_wil_bps": "TUBAN",
+    "parent": 35,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 3524,
+    "nama": "KAB. LAMONGAN",
+    "kode_wil_bps": 3524,
+    "nama_wil_bps": "LAMONGAN",
+    "parent": 35,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 3525,
+    "nama": "KAB. GRESIK",
+    "kode_wil_bps": 3525,
+    "nama_wil_bps": "GRESIK",
+    "parent": 35,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 3526,
+    "nama": "KAB. BANGKALAN",
+    "kode_wil_bps": 3526,
+    "nama_wil_bps": "BANGKALAN",
+    "parent": 35,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 3527,
+    "nama": "KAB. SAMPANG",
+    "kode_wil_bps": 3527,
+    "nama_wil_bps": "SAMPANG",
+    "parent": 35,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 3528,
+    "nama": "KAB. PAMEKASAN",
+    "kode_wil_bps": 3528,
+    "nama_wil_bps": "PAMEKASAN",
+    "parent": 35,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 3529,
+    "nama": "KAB. SUMENEP",
+    "kode_wil_bps": 3529,
+    "nama_wil_bps": "SUMENEP",
+    "parent": 35,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 3571,
+    "nama": "KOTA KEDIRI",
+    "kode_wil_bps": 3571,
+    "nama_wil_bps": "KEDIRI",
+    "parent": 35,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 3572,
+    "nama": "KOTA BLITAR",
+    "kode_wil_bps": 3572,
+    "nama_wil_bps": "BLITAR",
+    "parent": 35,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 3573,
+    "nama": "KOTA MALANG",
+    "kode_wil_bps": 3573,
+    "nama_wil_bps": "MALANG",
+    "parent": 35,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 3574,
+    "nama": "KOTA PROBOLINGGO",
+    "kode_wil_bps": 3574,
+    "nama_wil_bps": "PROBOLINGGO",
+    "parent": 35,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 3575,
+    "nama": "KOTA PASURUAN",
+    "kode_wil_bps": 3575,
+    "nama_wil_bps": "PASURUAN",
+    "parent": 35,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 3576,
+    "nama": "KOTA MOJOKERTO",
+    "kode_wil_bps": 3576,
+    "nama_wil_bps": "MOJOKERTO",
+    "parent": 35,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 3577,
+    "nama": "KOTA MADIUN",
+    "kode_wil_bps": 3577,
+    "nama_wil_bps": "MADIUN",
+    "parent": 35,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 3578,
+    "nama": "KOTA SURABAYA",
+    "kode_wil_bps": 3578,
+    "nama_wil_bps": "SURABAYA",
+    "parent": 35,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 3579,
+    "nama": "KOTA BATU",
+    "kode_wil_bps": 3579,
+    "nama_wil_bps": "BATU",
+    "parent": 35,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 3601,
+    "nama": "KAB. PANDEGLANG",
+    "kode_wil_bps": 3601,
+    "nama_wil_bps": "PANDEGLANG",
+    "parent": 36,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 3602,
+    "nama": "KAB. LEBAK",
+    "kode_wil_bps": 3602,
+    "nama_wil_bps": "LEBAK",
+    "parent": 36,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 3603,
+    "nama": "KAB. TANGERANG",
+    "kode_wil_bps": 3603,
+    "nama_wil_bps": "TANGERANG",
+    "parent": 36,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 3604,
+    "nama": "KAB. SERANG",
+    "kode_wil_bps": 3604,
+    "nama_wil_bps": "SERANG",
+    "parent": 36,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 3671,
+    "nama": "KOTA TANGERANG",
+    "kode_wil_bps": 3671,
+    "nama_wil_bps": "TANGERANG",
+    "parent": 36,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 3672,
+    "nama": "KOTA CILEGON",
+    "kode_wil_bps": 3672,
+    "nama_wil_bps": "CILEGON",
+    "parent": 36,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 3673,
+    "nama": "KOTA SERANG",
+    "kode_wil_bps": 3673,
+    "nama_wil_bps": "SERANG",
+    "parent": 36,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 3674,
+    "nama": "KOTA TANGERANG SELATAN",
+    "kode_wil_bps": 3674,
+    "nama_wil_bps": "TANGERANG SELATAN",
+    "parent": 36,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 5101,
+    "nama": "KAB. JEMBRANA",
+    "kode_wil_bps": 5101,
+    "nama_wil_bps": "JEMBRANA",
+    "parent": 51,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 5102,
+    "nama": "KAB. TABANAN",
+    "kode_wil_bps": 5102,
+    "nama_wil_bps": "TABANAN",
+    "parent": 51,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 5103,
+    "nama": "KAB. BADUNG",
+    "kode_wil_bps": 5103,
+    "nama_wil_bps": "BADUNG",
+    "parent": 51,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 5104,
+    "nama": "KAB. GIANYAR",
+    "kode_wil_bps": 5104,
+    "nama_wil_bps": "GIANYAR",
+    "parent": 51,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 5105,
+    "nama": "KAB. KLUNGKUNG",
+    "kode_wil_bps": 5105,
+    "nama_wil_bps": "KLUNGKUNG",
+    "parent": 51,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 5106,
+    "nama": "KAB. BANGLI",
+    "kode_wil_bps": 5106,
+    "nama_wil_bps": "BANGLI",
+    "parent": 51,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 5107,
+    "nama": "KAB. KARANGASEM",
+    "kode_wil_bps": 5107,
+    "nama_wil_bps": "KARANGASEM",
+    "parent": 51,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 5108,
+    "nama": "KAB. BULELENG",
+    "kode_wil_bps": 5108,
+    "nama_wil_bps": "BULELENG",
+    "parent": 51,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 5171,
+    "nama": "KOTA DENPASAR",
+    "kode_wil_bps": 5171,
+    "nama_wil_bps": "DENPASAR",
+    "parent": 51,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 5201,
+    "nama": "KAB. LOMBOK BARAT",
+    "kode_wil_bps": 5201,
+    "nama_wil_bps": "LOMBOK BARAT",
+    "parent": 52,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 5202,
+    "nama": "KAB. LOMBOK TENGAH",
+    "kode_wil_bps": 5202,
+    "nama_wil_bps": "LOMBOK TENGAH",
+    "parent": 52,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 5203,
+    "nama": "KAB. LOMBOK TIMUR",
+    "kode_wil_bps": 5203,
+    "nama_wil_bps": "LOMBOK TIMUR",
+    "parent": 52,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 5204,
+    "nama": "KAB. SUMBAWA",
+    "kode_wil_bps": 5204,
+    "nama_wil_bps": "SUMBAWA",
+    "parent": 52,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 5205,
+    "nama": "KAB. DOMPU",
+    "kode_wil_bps": 5205,
+    "nama_wil_bps": "DOMPU",
+    "parent": 52,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 5206,
+    "nama": "KAB. BIMA",
+    "kode_wil_bps": 5206,
+    "nama_wil_bps": "BIMA",
+    "parent": 52,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 5207,
+    "nama": "KAB. SUMBAWA BARAT",
+    "kode_wil_bps": 5207,
+    "nama_wil_bps": "SUMBAWA BARAT",
+    "parent": 52,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 5208,
+    "nama": "KAB. LOMBOK UTARA",
+    "kode_wil_bps": 5208,
+    "nama_wil_bps": "LOMBOK UTARA",
+    "parent": 52,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 5271,
+    "nama": "KOTA MATARAM",
+    "kode_wil_bps": 5271,
+    "nama_wil_bps": "MATARAM",
+    "parent": 52,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 5272,
+    "nama": "KOTA BIMA",
+    "kode_wil_bps": 5272,
+    "nama_wil_bps": "BIMA",
+    "parent": 52,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 5312,
+    "nama": "KAB. SUMBA BARAT",
+    "kode_wil_bps": 5301,
+    "nama_wil_bps": "SUMBA BARAT",
+    "parent": 53,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 5311,
+    "nama": "KAB. SUMBA TIMUR",
+    "kode_wil_bps": 5302,
+    "nama_wil_bps": "SUMBA TIMUR",
+    "parent": 53,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 5301,
+    "nama": "KAB. KUPANG",
+    "kode_wil_bps": 5303,
+    "nama_wil_bps": "KUPANG",
+    "parent": 53,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 5302,
+    "nama": "KAB TIMOR TENGAH SELATAN",
+    "kode_wil_bps": 5304,
+    "nama_wil_bps": "TIMOR TENGAH SELATAN",
+    "parent": 53,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 5303,
+    "nama": "KAB. TIMOR TENGAH UTARA",
+    "kode_wil_bps": 5305,
+    "nama_wil_bps": "TIMOR TENGAH UTARA",
+    "parent": 53,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 5304,
+    "nama": "KAB. BELU",
+    "kode_wil_bps": 5306,
+    "nama_wil_bps": "BELU",
+    "parent": 53,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 5305,
+    "nama": "KAB. ALOR",
+    "kode_wil_bps": 5307,
+    "nama_wil_bps": "ALOR",
+    "parent": 53,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 5313,
+    "nama": "KAB. LEMBATA",
+    "kode_wil_bps": 5308,
+    "nama_wil_bps": "LEMBATA",
+    "parent": 53,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 5306,
+    "nama": "KAB. FLORES TIMUR",
+    "kode_wil_bps": 5309,
+    "nama_wil_bps": "FLORES TIMUR",
+    "parent": 53,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 5307,
+    "nama": "KAB. SIKKA",
+    "kode_wil_bps": 5310,
+    "nama_wil_bps": "SIKKA",
+    "parent": 53,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 5308,
+    "nama": "KAB. ENDE",
+    "kode_wil_bps": 5311,
+    "nama_wil_bps": "ENDE",
+    "parent": 53,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 5309,
+    "nama": "KAB. NGADA",
+    "kode_wil_bps": 5312,
+    "nama_wil_bps": "NGADA",
+    "parent": 53,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 5310,
+    "nama": "KAB. MANGGARAI",
+    "kode_wil_bps": 5313,
+    "nama_wil_bps": "MANGGARAI",
+    "parent": 53,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 5314,
+    "nama": "KAB. ROTE NDAO",
+    "kode_wil_bps": 5314,
+    "nama_wil_bps": "ROTE NDAO",
+    "parent": 53,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 5315,
+    "nama": "KAB. MANGGARAI BARAT",
+    "kode_wil_bps": 5315,
+    "nama_wil_bps": "MANGGARAI BARAT",
+    "parent": 53,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 5317,
+    "nama": "KAB. SUMBA TENGAH",
+    "kode_wil_bps": 5316,
+    "nama_wil_bps": "SUMBA TENGAH",
+    "parent": 53,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 5318,
+    "nama": "KAB. SUMBA BARAT DAYA",
+    "kode_wil_bps": 5317,
+    "nama_wil_bps": "SUMBA BARAT DAYA",
+    "parent": 53,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 5316,
+    "nama": "KAB. NAGEKEO",
+    "kode_wil_bps": 5318,
+    "nama_wil_bps": "NAGEKEO",
+    "parent": 53,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 5319,
+    "nama": "KAB. MANGGARAI TIMUR",
+    "kode_wil_bps": 5319,
+    "nama_wil_bps": "MANGGARAI TIMUR",
+    "parent": 53,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 5320,
+    "nama": "KAB. SABU RAIJUA",
+    "kode_wil_bps": 5320,
+    "nama_wil_bps": "SABU RAIJUA",
+    "parent": 53,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 5321,
+    "nama": "KAB. MALAKA",
+    "kode_wil_bps": 5321,
+    "nama_wil_bps": "MALAKA",
+    "parent": 53,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 5371,
+    "nama": "KOTA KUPANG",
+    "kode_wil_bps": 5371,
+    "nama_wil_bps": "KUPANG",
+    "parent": 53,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 6101,
+    "nama": "KAB. SAMBAS",
+    "kode_wil_bps": 6101,
+    "nama_wil_bps": "SAMBAS",
+    "parent": 61,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 6107,
+    "nama": "KAB. BENGKAYANG",
+    "kode_wil_bps": 6102,
+    "nama_wil_bps": "BENGKAYANG",
+    "parent": 61,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 6108,
+    "nama": "KAB. LANDAK",
+    "kode_wil_bps": 6103,
+    "nama_wil_bps": "LANDAK",
+    "parent": 61,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 6102,
+    "nama": "KAB. MEMPAWAH",
+    "kode_wil_bps": 6104,
+    "nama_wil_bps": "MEMPAWAH",
+    "parent": 61,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 6103,
+    "nama": "KAB. SANGGAU",
+    "kode_wil_bps": 6105,
+    "nama_wil_bps": "SANGGAU",
+    "parent": 61,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 6104,
+    "nama": "KAB. KETAPANG",
+    "kode_wil_bps": 6106,
+    "nama_wil_bps": "KETAPANG",
+    "parent": 61,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 6105,
+    "nama": "KAB. SINTANG",
+    "kode_wil_bps": 6107,
+    "nama_wil_bps": "SINTANG",
+    "parent": 61,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 6106,
+    "nama": "KAB. KAPUAS HULU",
+    "kode_wil_bps": 6108,
+    "nama_wil_bps": "KAPUAS HULU",
+    "parent": 61,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 6109,
+    "nama": "KAB. SEKADAU",
+    "kode_wil_bps": 6109,
+    "nama_wil_bps": "SEKADAU",
+    "parent": 61,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 6110,
+    "nama": "KAB. MELAWI",
+    "kode_wil_bps": 6110,
+    "nama_wil_bps": "MELAWI",
+    "parent": 61,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 6111,
+    "nama": "KAB. KAYONG UTARA",
+    "kode_wil_bps": 6111,
+    "nama_wil_bps": "KAYONG UTARA",
+    "parent": 61,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 6112,
+    "nama": "KAB. KUBU RAYA",
+    "kode_wil_bps": 6112,
+    "nama_wil_bps": "KUBU RAYA",
+    "parent": 61,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 6171,
+    "nama": "KOTA PONTIANAK",
+    "kode_wil_bps": 6171,
+    "nama_wil_bps": "PONTIANAK",
+    "parent": 61,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 6172,
+    "nama": "KOTA SINGKAWANG",
+    "kode_wil_bps": 6172,
+    "nama_wil_bps": "SINGKAWANG",
+    "parent": 61,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 6201,
+    "nama": "KAB. KOTAWARINGIN BARAT",
+    "kode_wil_bps": 6201,
+    "nama_wil_bps": "KOTAWARINGIN BARAT",
+    "parent": 62,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 6202,
+    "nama": "KAB. KOTAWARINGIN TIMUR",
+    "kode_wil_bps": 6202,
+    "nama_wil_bps": "KOTAWARINGIN TIMUR",
+    "parent": 62,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 6203,
+    "nama": "KAB. KAPUAS",
+    "kode_wil_bps": 6203,
+    "nama_wil_bps": "KAPUAS",
+    "parent": 62,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 6204,
+    "nama": "KAB. BARITO SELATAN",
+    "kode_wil_bps": 6204,
+    "nama_wil_bps": "BARITO SELATAN",
+    "parent": 62,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 6205,
+    "nama": "KAB. BARITO UTARA",
+    "kode_wil_bps": 6205,
+    "nama_wil_bps": "BARITO UTARA",
+    "parent": 62,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 6208,
+    "nama": "KAB. SUKAMARA",
+    "kode_wil_bps": 6206,
+    "nama_wil_bps": "SUKAMARA",
+    "parent": 62,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 6209,
+    "nama": "KAB. LAMANDAU",
+    "kode_wil_bps": 6207,
+    "nama_wil_bps": "LAMANDAU",
+    "parent": 62,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 6207,
+    "nama": "KAB. SERUYAN",
+    "kode_wil_bps": 6208,
+    "nama_wil_bps": "SERUYAN",
+    "parent": 62,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 6206,
+    "nama": "KAB. KATINGAN",
+    "kode_wil_bps": 6209,
+    "nama_wil_bps": "KATINGAN",
+    "parent": 62,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 6211,
+    "nama": "KAB. PULANG PISAU",
+    "kode_wil_bps": 6210,
+    "nama_wil_bps": "PULANG PISAU",
+    "parent": 62,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 6210,
+    "nama": "KAB. GUNUNG MAS",
+    "kode_wil_bps": 6211,
+    "nama_wil_bps": "GUNUNG MAS",
+    "parent": 62,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 6213,
+    "nama": "KAB. BARITO TIMUR",
+    "kode_wil_bps": 6212,
+    "nama_wil_bps": "BARITO TIMUR",
+    "parent": 62,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 6212,
+    "nama": "KAB. MURUNG RAYA",
+    "kode_wil_bps": 6213,
+    "nama_wil_bps": "MURUNG RAYA",
+    "parent": 62,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 6271,
+    "nama": "KOTA PALANGKARAYA",
+    "kode_wil_bps": 6271,
+    "nama_wil_bps": "PALANGKA RAYA",
+    "parent": 62,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 6301,
+    "nama": "KAB. TANAH LAUT",
+    "kode_wil_bps": 6301,
+    "nama_wil_bps": "TANAH LAUT",
+    "parent": 63,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 6302,
+    "nama": "KAB. KOTABARU",
+    "kode_wil_bps": 6302,
+    "nama_wil_bps": "KOTABARU",
+    "parent": 63,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 6303,
+    "nama": "KAB. BANJAR",
+    "kode_wil_bps": 6303,
+    "nama_wil_bps": "BANJAR",
+    "parent": 63,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 6304,
+    "nama": "KAB. BARITO KUALA",
+    "kode_wil_bps": 6304,
+    "nama_wil_bps": "BARITO KUALA",
+    "parent": 63,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 6305,
+    "nama": "KAB. TAPIN",
+    "kode_wil_bps": 6305,
+    "nama_wil_bps": "TAPIN",
+    "parent": 63,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 6306,
+    "nama": "KAB. HULU SUNGAI SELATAN",
+    "kode_wil_bps": 6306,
+    "nama_wil_bps": "HULU SUNGAI SELATAN",
+    "parent": 63,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 6307,
+    "nama": "KAB. HULU SUNGAI TENGAH",
+    "kode_wil_bps": 6307,
+    "nama_wil_bps": "HULU SUNGAI TENGAH",
+    "parent": 63,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 6308,
+    "nama": "KAB. HULU SUNGAI UTARA",
+    "kode_wil_bps": 6308,
+    "nama_wil_bps": "HULU SUNGAI UTARA",
+    "parent": 63,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 6309,
+    "nama": "KAB. TABALONG",
+    "kode_wil_bps": 6309,
+    "nama_wil_bps": "TABALONG",
+    "parent": 63,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 6310,
+    "nama": "KAB. TANAH BUMBU",
+    "kode_wil_bps": 6310,
+    "nama_wil_bps": "TANAH BUMBU",
+    "parent": 63,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 6311,
+    "nama": "KAB. BALANGAN",
+    "kode_wil_bps": 6311,
+    "nama_wil_bps": "BALANGAN",
+    "parent": 63,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 6371,
+    "nama": "KOTA BANJARMASIN",
+    "kode_wil_bps": 6371,
+    "nama_wil_bps": "BANJARMASIN",
+    "parent": 63,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 6372,
+    "nama": "KOTA BANJARBARU",
+    "kode_wil_bps": 6372,
+    "nama_wil_bps": "BANJAR BARU",
+    "parent": 63,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 6401,
+    "nama": "KAB. PASER",
+    "kode_wil_bps": 6401,
+    "nama_wil_bps": "PASER",
+    "parent": 64,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 6407,
+    "nama": "KAB. KUTAI BARAT",
+    "kode_wil_bps": 6402,
+    "nama_wil_bps": "KUTAI BARAT",
+    "parent": 64,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 6402,
+    "nama": "KAB. KUTAI KARTANEGARA",
+    "kode_wil_bps": 6403,
+    "nama_wil_bps": "KUTAI KARTANEGARA",
+    "parent": 64,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 6408,
+    "nama": "KAB. KUTAI TIMUR",
+    "kode_wil_bps": 6404,
+    "nama_wil_bps": "KUTAI TIMUR",
+    "parent": 64,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 6403,
+    "nama": "KAB. BERAU",
+    "kode_wil_bps": 6405,
+    "nama_wil_bps": "BERAU",
+    "parent": 64,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 6409,
+    "nama": "KAB. PENAJAM PASER UTARA",
+    "kode_wil_bps": 6409,
+    "nama_wil_bps": "PENAJAM PASER UTARA",
+    "parent": 64,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 6411,
+    "nama": "KAB. MAHAKAM ULU",
+    "kode_wil_bps": 6411,
+    "nama_wil_bps": "MAHAKAM HULU",
+    "parent": 64,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 6471,
+    "nama": "KOTA BALIKPAPAN",
+    "kode_wil_bps": 6471,
+    "nama_wil_bps": "BALIKPAPAN",
+    "parent": 64,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 6472,
+    "nama": "KOTA SAMARINDA",
+    "kode_wil_bps": 6472,
+    "nama_wil_bps": "SAMARINDA",
+    "parent": 64,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 6474,
+    "nama": "KOTA BONTANG",
+    "kode_wil_bps": 6474,
+    "nama_wil_bps": "BONTANG",
+    "parent": 64,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 6502,
+    "nama": "KAB. MALINAU",
+    "kode_wil_bps": 6501,
+    "nama_wil_bps": "MALINAU",
+    "parent": 65,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 6501,
+    "nama": "KAB. BULUNGAN",
+    "kode_wil_bps": 6502,
+    "nama_wil_bps": "BULUNGAN",
+    "parent": 65,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 6504,
+    "nama": "KAB. TANA TIDUNG",
+    "kode_wil_bps": 6503,
+    "nama_wil_bps": "TANA TIDUNG",
+    "parent": 65,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 6503,
+    "nama": "KAB. NUNUKAN",
+    "kode_wil_bps": 6504,
+    "nama_wil_bps": "NUNUKAN",
+    "parent": 65,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 6571,
+    "nama": "KOTA TARAKAN",
+    "kode_wil_bps": 6571,
+    "nama_wil_bps": "TARAKAN",
+    "parent": 65,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 7101,
+    "nama": "KAB. BOLAANG MONGONDOW",
+    "kode_wil_bps": 7101,
+    "nama_wil_bps": "BOLAANG MONGONDOW",
+    "parent": 71,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 7102,
+    "nama": "KAB. MINAHASA",
+    "kode_wil_bps": 7102,
+    "nama_wil_bps": "MINAHASA",
+    "parent": 71,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 7103,
+    "nama": "KAB. KEPULAUAN SANGIHE",
+    "kode_wil_bps": 7103,
+    "nama_wil_bps": "KEPULAUAN SANGIHE",
+    "parent": 71,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 7104,
+    "nama": "KAB. KEPULAUAN TALAUD",
+    "kode_wil_bps": 7104,
+    "nama_wil_bps": "KEPULAUAN TALAUD",
+    "parent": 71,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 7105,
+    "nama": "KAB. MINAHASA SELATAN",
+    "kode_wil_bps": 7105,
+    "nama_wil_bps": "MINAHASA SELATAN",
+    "parent": 71,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 7106,
+    "nama": "KAB. MINAHASA UTARA",
+    "kode_wil_bps": 7106,
+    "nama_wil_bps": "MINAHASA UTARA",
+    "parent": 71,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 7108,
+    "nama": "KAB. BOLAANG MONGONDOW",
+    "kode_wil_bps": 7107,
+    "nama_wil_bps": "BOLAANG MONGONDOW UTARA",
+    "parent": 71,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 7109,
+    "nama": "KAB. KEP. SIAU TAGULANDANG",
+    "kode_wil_bps": 7108,
+    "nama_wil_bps": "SIAU TAGULANDANG BIARO",
+    "parent": 71,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 7107,
+    "nama": "KAB. MINAHASA TENGGARA",
+    "kode_wil_bps": 7109,
+    "nama_wil_bps": "MINAHASA TENGGARA",
+    "parent": 71,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 7111,
+    "nama": "KAB. BOLAANG MONGONDOW",
+    "kode_wil_bps": 7110,
+    "nama_wil_bps": "BOLAANG MONGONDOW SELATAN",
+    "parent": 71,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 7110,
+    "nama": "KAB. BOLAANG MONGONDOW",
+    "kode_wil_bps": 7111,
+    "nama_wil_bps": "BOLAANG MONGONDOW TIMUR",
+    "parent": 71,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 7171,
+    "nama": "KOTA MANADO",
+    "kode_wil_bps": 7171,
+    "nama_wil_bps": "MANADO",
+    "parent": 71,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 7172,
+    "nama": "KOTA BITUNG",
+    "kode_wil_bps": 7172,
+    "nama_wil_bps": "BITUNG",
+    "parent": 71,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 7173,
+    "nama": "KOTA TOMOHON",
+    "kode_wil_bps": 7173,
+    "nama_wil_bps": "TOMOHON",
+    "parent": 71,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 7174,
+    "nama": "KOTA KOTAMOBAGU",
+    "kode_wil_bps": 7174,
+    "nama_wil_bps": "KOTAMOBAGU",
+    "parent": 71,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 7207,
+    "nama": "KAB. BANGGAI KEPULAUAN",
+    "kode_wil_bps": 7201,
+    "nama_wil_bps": "BANGGAI KEPULAUAN",
+    "parent": 72,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 7201,
+    "nama": "KAB. BANGGAI",
+    "kode_wil_bps": 7202,
+    "nama_wil_bps": "BANGGAI",
+    "parent": 72,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 7206,
+    "nama": "KAB. MOROWALI",
+    "kode_wil_bps": 7203,
+    "nama_wil_bps": "MOROWALI",
+    "parent": 72,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 7202,
+    "nama": "KAB. POSO",
+    "kode_wil_bps": 7204,
+    "nama_wil_bps": "POSO",
+    "parent": 72,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 7203,
+    "nama": "KAB. DONGGALA",
+    "kode_wil_bps": 7205,
+    "nama_wil_bps": "DONGGALA",
+    "parent": 72,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 7204,
+    "nama": "KAB. TOLI TOLI",
+    "kode_wil_bps": 7206,
+    "nama_wil_bps": "TOLI-TOLI",
+    "parent": 72,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 7205,
+    "nama": "KAB. BUOL",
+    "kode_wil_bps": 7207,
+    "nama_wil_bps": "BUOL",
+    "parent": 72,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 7208,
+    "nama": "KAB. PARIGI MOUTONG",
+    "kode_wil_bps": 7208,
+    "nama_wil_bps": "PARIGI MOUTONG",
+    "parent": 72,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 7209,
+    "nama": "KAB. TOJO UNA UNA",
+    "kode_wil_bps": 7209,
+    "nama_wil_bps": "TOJO UNA-UNA",
+    "parent": 72,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 7210,
+    "nama": "KAB. SIGI",
+    "kode_wil_bps": 7210,
+    "nama_wil_bps": "SIGI",
+    "parent": 72,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 7211,
+    "nama": "KAB. BANGGAI LAUT",
+    "kode_wil_bps": 7211,
+    "nama_wil_bps": "BANGGAI LAUT",
+    "parent": 72,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 7212,
+    "nama": "KAB. MOROWALI UTARA",
+    "kode_wil_bps": 7212,
+    "nama_wil_bps": "MOROWALI UTARA",
+    "parent": 72,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 7271,
+    "nama": "KOTA PALU",
+    "kode_wil_bps": 7271,
+    "nama_wil_bps": "PALU",
+    "parent": 72,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 7301,
+    "nama": "KAB. KEPULAUAN SELAYAR",
+    "kode_wil_bps": 7301,
+    "nama_wil_bps": "KEPULAUAN SELAYAR",
+    "parent": 73,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 7302,
+    "nama": "KAB. BULUKUMBA",
+    "kode_wil_bps": 7302,
+    "nama_wil_bps": "BULUKUMBA",
+    "parent": 73,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 7303,
+    "nama": "KAB. BANTAENG",
+    "kode_wil_bps": 7303,
+    "nama_wil_bps": "BANTAENG",
+    "parent": 73,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 7304,
+    "nama": "KAB. JENEPONTO",
+    "kode_wil_bps": 7304,
+    "nama_wil_bps": "JENEPONTO",
+    "parent": 73,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 7305,
+    "nama": "KAB. TAKALAR",
+    "kode_wil_bps": 7305,
+    "nama_wil_bps": "TAKALAR",
+    "parent": 73,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 7306,
+    "nama": "KAB. GOWA",
+    "kode_wil_bps": 7306,
+    "nama_wil_bps": "GOWA",
+    "parent": 73,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 7307,
+    "nama": "KAB. SINJAI",
+    "kode_wil_bps": 7307,
+    "nama_wil_bps": "SINJAI",
+    "parent": 73,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 7309,
+    "nama": "KAB. MAROS",
+    "kode_wil_bps": 7308,
+    "nama_wil_bps": "MAROS",
+    "parent": 73,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 7310,
+    "nama": "KAB. PANGKAJENE KEPULAUAN",
+    "kode_wil_bps": 7309,
+    "nama_wil_bps": "PANGKAJENE DAN KEPULAUAN",
+    "parent": 73,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 7311,
+    "nama": "KAB. BARRU",
+    "kode_wil_bps": 7310,
+    "nama_wil_bps": "BARRU",
+    "parent": 73,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 7308,
+    "nama": "KAB. BONE",
+    "kode_wil_bps": 7311,
+    "nama_wil_bps": "BONE",
+    "parent": 73,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 7312,
+    "nama": "KAB. SOPPENG",
+    "kode_wil_bps": 7312,
+    "nama_wil_bps": "SOPPENG",
+    "parent": 73,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 7313,
+    "nama": "KAB. WAJO",
+    "kode_wil_bps": 7313,
+    "nama_wil_bps": "WAJO",
+    "parent": 73,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 7314,
+    "nama": "KAB. SIDENRENG RAPPANG",
+    "kode_wil_bps": 7314,
+    "nama_wil_bps": "SIDENRENG RAPPANG",
+    "parent": 73,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 7315,
+    "nama": "KAB. PINRANG",
+    "kode_wil_bps": 7315,
+    "nama_wil_bps": "PINRANG",
+    "parent": 73,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 7316,
+    "nama": "KAB. ENREKANG",
+    "kode_wil_bps": 7316,
+    "nama_wil_bps": "ENREKANG",
+    "parent": 73,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 7317,
+    "nama": "KAB. LUWU",
+    "kode_wil_bps": 7317,
+    "nama_wil_bps": "LUWU",
+    "parent": 73,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 7318,
+    "nama": "KAB. TANA TORAJA",
+    "kode_wil_bps": 7318,
+    "nama_wil_bps": "TANA TORAJA",
+    "parent": 73,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 7322,
+    "nama": "KAB. LUWU UTARA",
+    "kode_wil_bps": 7322,
+    "nama_wil_bps": "LUWU UTARA",
+    "parent": 73,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 7324,
+    "nama": "KAB. LUWU TIMUR",
+    "kode_wil_bps": 7325,
+    "nama_wil_bps": "LUWU TIMUR",
+    "parent": 73,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 7326,
+    "nama": "KAB. TORAJA UTARA",
+    "kode_wil_bps": 7326,
+    "nama_wil_bps": "TORAJA UTARA",
+    "parent": 73,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 7371,
+    "nama": "KOTA MAKASSAR",
+    "kode_wil_bps": 7371,
+    "nama_wil_bps": "MAKASSAR",
+    "parent": 73,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 7372,
+    "nama": "KOTA PARE PARE",
+    "kode_wil_bps": 7372,
+    "nama_wil_bps": "PAREPARE",
+    "parent": 73,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 7373,
+    "nama": "KOTA PALOPO",
+    "kode_wil_bps": 7373,
+    "nama_wil_bps": "PALOPO",
+    "parent": 73,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 7404,
+    "nama": "KAB. BUTON",
+    "kode_wil_bps": 7401,
+    "nama_wil_bps": "BUTON",
+    "parent": 74,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 7403,
+    "nama": "KAB. MUNA",
+    "kode_wil_bps": 7402,
+    "nama_wil_bps": "MUNA",
+    "parent": 74,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 7402,
+    "nama": "KAB. KONAWE",
+    "kode_wil_bps": 7403,
+    "nama_wil_bps": "KONAWE",
+    "parent": 74,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 7401,
+    "nama": "KAB. KOLAKA",
+    "kode_wil_bps": 7404,
+    "nama_wil_bps": "KOLAKA",
+    "parent": 74,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 7405,
+    "nama": "KAB. KONAWE SELATAN",
+    "kode_wil_bps": 7405,
+    "nama_wil_bps": "KONAWE SELATAN",
+    "parent": 74,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 7406,
+    "nama": "KAB. BOMBANA",
+    "kode_wil_bps": 7406,
+    "nama_wil_bps": "BOMBANA",
+    "parent": 74,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 7407,
+    "nama": "KAB. WAKATOBI",
+    "kode_wil_bps": 7407,
+    "nama_wil_bps": "WAKATOBI",
+    "parent": 74,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 7408,
+    "nama": "KAB. KOLAKA UTARA",
+    "kode_wil_bps": 7408,
+    "nama_wil_bps": "KOLAKA UTARA",
+    "parent": 74,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 7410,
+    "nama": "KAB. BUTON UTARA",
+    "kode_wil_bps": 7409,
+    "nama_wil_bps": "BUTON UTARA",
+    "parent": 74,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 7409,
+    "nama": "KAB. KONAWE UTARA",
+    "kode_wil_bps": 7410,
+    "nama_wil_bps": "KONAWE UTARA",
+    "parent": 74,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 7411,
+    "nama": "KAB. KOLAKA TIMUR",
+    "kode_wil_bps": 7411,
+    "nama_wil_bps": "KOLAKA TIMUR",
+    "parent": 74,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 7412,
+    "nama": "KAB. KONAWE KEPULAUAN",
+    "kode_wil_bps": 7412,
+    "nama_wil_bps": "KONAWE KEPULAUAN",
+    "parent": 74,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 7413,
+    "nama": "KAB. MUNA BARAT",
+    "kode_wil_bps": 7413,
+    "nama_wil_bps": "MUNA BARAT",
+    "parent": 74,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 7414,
+    "nama": "KAB. BUTON TENGAH",
+    "kode_wil_bps": 7414,
+    "nama_wil_bps": "BUTON TENGAH",
+    "parent": 74,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 7415,
+    "nama": "KAB. BUTON SELATAN",
+    "kode_wil_bps": 7415,
+    "nama_wil_bps": "BUTON SELATAN",
+    "parent": 74,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 7471,
+    "nama": "KOTA KENDARI",
+    "kode_wil_bps": 7471,
+    "nama_wil_bps": "KENDARI",
+    "parent": 74,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 7472,
+    "nama": "KOTA BAU BAU",
+    "kode_wil_bps": 7472,
+    "nama_wil_bps": "BAUBAU",
+    "parent": 74,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 7502,
+    "nama": "KAB. BOALEMO",
+    "kode_wil_bps": 7501,
+    "nama_wil_bps": "BOALEMO",
+    "parent": 75,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 7501,
+    "nama": "KAB. GORONTALO",
+    "kode_wil_bps": 7502,
+    "nama_wil_bps": "GORONTALO",
+    "parent": 75,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 7504,
+    "nama": "KAB. PAHUWATO",
+    "kode_wil_bps": 7503,
+    "nama_wil_bps": "POHUWATO",
+    "parent": 75,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 7503,
+    "nama": "KAB. BONE BOLANGO",
+    "kode_wil_bps": 7504,
+    "nama_wil_bps": "BONE BOLANGO",
+    "parent": 75,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 7505,
+    "nama": "KAB. GORONTALO UTARA",
+    "kode_wil_bps": 7505,
+    "nama_wil_bps": "GORONTALO UTARA",
+    "parent": 75,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 7571,
+    "nama": "KOTA GORONTALO",
+    "kode_wil_bps": 7571,
+    "nama_wil_bps": "GORONTALO",
+    "parent": 75,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 7605,
+    "nama": "KAB. MAJENE",
+    "kode_wil_bps": 7601,
+    "nama_wil_bps": "MAJENE",
+    "parent": 76,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 7604,
+    "nama": "KAB. POLEWALI MANDAR",
+    "kode_wil_bps": 7602,
+    "nama_wil_bps": "POLEWALI MANDAR",
+    "parent": 76,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 7603,
+    "nama": "KAB. MAMASA",
+    "kode_wil_bps": 7603,
+    "nama_wil_bps": "MAMASA",
+    "parent": 76,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 7602,
+    "nama": "KAB. MAMUJU",
+    "kode_wil_bps": 7604,
+    "nama_wil_bps": "MAMUJU",
+    "parent": 76,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 7601,
+    "nama": "KAB. PASANGKAYU",
+    "kode_wil_bps": 7605,
+    "nama_wil_bps": "PASANGKAYU",
+    "parent": 76,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 7606,
+    "nama": "KAB. MAMUJU TENGAH",
+    "kode_wil_bps": 7606,
+    "nama_wil_bps": "MAMUJU TENGAH",
+    "parent": 76,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 8103,
+    "nama": "KAB. KEPULAUAN TANIMBAR",
+    "kode_wil_bps": 8101,
+    "nama_wil_bps": "KEPULAUAN TANIMBAR",
+    "parent": 81,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 8102,
+    "nama": "KAB. MALUKU TENGGARA",
+    "kode_wil_bps": 8102,
+    "nama_wil_bps": "MALUKU TENGGARA",
+    "parent": 81,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 8101,
+    "nama": "KAB. MALUKU TENGAH",
+    "kode_wil_bps": 8103,
+    "nama_wil_bps": "MALUKU TENGAH",
+    "parent": 81,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 8104,
+    "nama": "KAB. BURU",
+    "kode_wil_bps": 8104,
+    "nama_wil_bps": "BURU",
+    "parent": 81,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 8107,
+    "nama": "KAB. KEPULAUAN ARU",
+    "kode_wil_bps": 8105,
+    "nama_wil_bps": "KEPULAUAN ARU",
+    "parent": 81,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 8106,
+    "nama": "KAB. SERAM BAGIAN BARAT",
+    "kode_wil_bps": 8106,
+    "nama_wil_bps": "SERAM BAGIAN BARAT",
+    "parent": 81,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 8105,
+    "nama": "KAB. SERAM BAGIAN TIMUR",
+    "kode_wil_bps": 8107,
+    "nama_wil_bps": "SERAM BAGIAN TIMUR",
+    "parent": 81,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 8108,
+    "nama": "KAB. MALUKU BARAT DAYA",
+    "kode_wil_bps": 8108,
+    "nama_wil_bps": "MALUKU BARAT DAYA",
+    "parent": 81,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 8109,
+    "nama": "KAB. BURU SELATAN",
+    "kode_wil_bps": 8109,
+    "nama_wil_bps": "BURU SELATAN",
+    "parent": 81,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 8171,
+    "nama": "KOTA AMBON",
+    "kode_wil_bps": 8171,
+    "nama_wil_bps": "AMBON",
+    "parent": 81,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 8172,
+    "nama": "KOTA TUAL",
+    "kode_wil_bps": 8172,
+    "nama_wil_bps": "TUAL",
+    "parent": 81,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 8201,
+    "nama": "KAB. HALMAHERA BARAT",
+    "kode_wil_bps": 8201,
+    "nama_wil_bps": "HALMAHERA BARAT",
+    "parent": 82,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 8202,
+    "nama": "KAB. HALMAHERA TENGAH",
+    "kode_wil_bps": 8202,
+    "nama_wil_bps": "HALMAHERA TENGAH",
+    "parent": 82,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 8205,
+    "nama": "KAB. KEPULAUAN SULA",
+    "kode_wil_bps": 8203,
+    "nama_wil_bps": "KEPULAUAN SULA",
+    "parent": 82,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 8204,
+    "nama": "KAB. HALMAHERA SELATAN",
+    "kode_wil_bps": 8204,
+    "nama_wil_bps": "HALMAHERA SELATAN",
+    "parent": 82,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 8203,
+    "nama": "KAB. HALMAHERA UTARA",
+    "kode_wil_bps": 8205,
+    "nama_wil_bps": "HALMAHERA UTARA",
+    "parent": 82,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 8206,
+    "nama": "KAB. HALMAHERA TIMUR",
+    "kode_wil_bps": 8206,
+    "nama_wil_bps": "HALMAHERA TIMUR",
+    "parent": 82,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 8207,
+    "nama": "KAB. PULAU MOROTAI",
+    "kode_wil_bps": 8207,
+    "nama_wil_bps": "PULAU MOROTAI",
+    "parent": 82,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 8208,
+    "nama": "KAB. PULAU TALIABU",
+    "kode_wil_bps": 8208,
+    "nama_wil_bps": "PULAU TALIABU",
+    "parent": 82,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 8271,
+    "nama": "KOTA TERNATE",
+    "kode_wil_bps": 8271,
+    "nama_wil_bps": "TERNATE",
+    "parent": 82,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 8272,
+    "nama": "KOTA TIDORE KEPULAUAN",
+    "kode_wil_bps": 8272,
+    "nama_wil_bps": "TIDORE KEPULAUAN",
+    "parent": 82,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 9203,
+    "nama": "KAB. FAK FAK",
+    "kode_wil_bps": 9101,
+    "nama_wil_bps": "FAKFAK",
+    "parent": 92,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 9208,
+    "nama": "KAB. KAIMANA",
+    "kode_wil_bps": 9102,
+    "nama_wil_bps": "KAIMANA",
+    "parent": 92,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 9207,
+    "nama": "KAB. TELUK WONDAMA",
+    "kode_wil_bps": 9103,
+    "nama_wil_bps": "TELUK WONDAMA",
+    "parent": 92,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 9206,
+    "nama": "KAB. TELUK BINTUNI",
+    "kode_wil_bps": 9104,
+    "nama_wil_bps": "TELUK BINTUNI",
+    "parent": 92,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 9202,
+    "nama": "KAB. MANOKWARI",
+    "kode_wil_bps": 9105,
+    "nama_wil_bps": "MANOKWARI",
+    "parent": 92,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 9204,
+    "nama": "KAB. SORONG SELATAN",
+    "kode_wil_bps": 9106,
+    "nama_wil_bps": "SORONG SELATAN",
+    "parent": 92,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 9201,
+    "nama": "KAB. SORONG",
+    "kode_wil_bps": 9107,
+    "nama_wil_bps": "SORONG",
+    "parent": 92,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 9205,
+    "nama": "KAB. RAJA AMPAT",
+    "kode_wil_bps": 9108,
+    "nama_wil_bps": "RAJA AMPAT",
+    "parent": 92,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 9209,
+    "nama": "KAB. TAMBRAUW",
+    "kode_wil_bps": 9109,
+    "nama_wil_bps": "TAMBRAUW",
+    "parent": 92,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 9210,
+    "nama": "KAB. MAYBRAT",
+    "kode_wil_bps": 9110,
+    "nama_wil_bps": "MAYBRAT",
+    "parent": 92,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 9211,
+    "nama": "KAB. MANOKWARI SELATAN",
+    "kode_wil_bps": 9111,
+    "nama_wil_bps": "MANOKWARI SELATAN",
+    "parent": 92,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 9212,
+    "nama": "KAB. PEGUNUNGAN ARFAK",
+    "kode_wil_bps": 9112,
+    "nama_wil_bps": "PEGUNUNGAN ARFAK",
+    "parent": 92,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 9271,
+    "nama": "KOTA SORONG",
+    "kode_wil_bps": 9171,
+    "nama_wil_bps": "SORONG",
+    "parent": 92,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 9101,
+    "nama": "KAB. MERAUKE",
+    "kode_wil_bps": 9401,
+    "nama_wil_bps": "MERAUKE",
+    "parent": 91,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 9102,
+    "nama": "KAB. JAYAWIJAYA",
+    "kode_wil_bps": 9402,
+    "nama_wil_bps": "JAYAWIJAYA",
+    "parent": 91,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 9103,
+    "nama": "KAB. JAYAPURA",
+    "kode_wil_bps": 9403,
+    "nama_wil_bps": "JAYAPURA",
+    "parent": 91,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 9104,
+    "nama": "KAB. NABIRE",
+    "kode_wil_bps": 9404,
+    "nama_wil_bps": "NABIRE",
+    "parent": 91,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 9105,
+    "nama": "KAB. KEPULAUAN YAPEN",
+    "kode_wil_bps": 9408,
+    "nama_wil_bps": "KEPULAUAN YAPEN",
+    "parent": 91,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 9106,
+    "nama": "KAB. BIAK NUMFOR",
+    "kode_wil_bps": 9409,
+    "nama_wil_bps": "BIAK NUMFOR",
+    "parent": 91,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 9108,
+    "nama": "KAB. PANIAI",
+    "kode_wil_bps": 9410,
+    "nama_wil_bps": "PANIAI",
+    "parent": 91,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 9107,
+    "nama": "KAB. PUNCAK JAYA",
+    "kode_wil_bps": 9411,
+    "nama_wil_bps": "PUNCAK JAYA",
+    "parent": 91,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 9109,
+    "nama": "KAB. MIMIKA",
+    "kode_wil_bps": 9412,
+    "nama_wil_bps": "MIMIKA",
+    "parent": 91,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 9116,
+    "nama": "KAB. BOVEN DIGOEL",
+    "kode_wil_bps": 9413,
+    "nama_wil_bps": "BOVEN DIGOEL",
+    "parent": 91,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 9117,
+    "nama": "KAB. MAPPI",
+    "kode_wil_bps": 9414,
+    "nama_wil_bps": "MAPPI",
+    "parent": 91,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 9118,
+    "nama": "KAB. ASMAT",
+    "kode_wil_bps": 9415,
+    "nama_wil_bps": "ASMAT",
+    "parent": 91,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 9113,
+    "nama": "KAB. YAHUKIMO",
+    "kode_wil_bps": 9416,
+    "nama_wil_bps": "YAHUKIMO",
+    "parent": 91,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 9112,
+    "nama": "KAB PEGUNUNGAN BINTANG",
+    "kode_wil_bps": 9417,
+    "nama_wil_bps": "PEGUNUNGAN BINTANG",
+    "parent": 91,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 9114,
+    "nama": "KAB. TOLIKARA",
+    "kode_wil_bps": 9418,
+    "nama_wil_bps": "TOLIKARA",
+    "parent": 91,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 9110,
+    "nama": "KAB. SARMI",
+    "kode_wil_bps": 9419,
+    "nama_wil_bps": "SARMI",
+    "parent": 91,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 9111,
+    "nama": "KAB. KEEROM",
+    "kode_wil_bps": 9420,
+    "nama_wil_bps": "KEEROM",
+    "parent": 91,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 9115,
+    "nama": "KAB. WAROPEN",
+    "kode_wil_bps": 9426,
+    "nama_wil_bps": "WAROPEN",
+    "parent": 91,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 9119,
+    "nama": "KAB. SUPIORI",
+    "kode_wil_bps": 9427,
+    "nama_wil_bps": "SUPIORI",
+    "parent": 91,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 9120,
+    "nama": "KAB. MAMBERAMO RAYA",
+    "kode_wil_bps": 9428,
+    "nama_wil_bps": "MAMBERAMO RAYA",
+    "parent": 91,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 9124,
+    "nama": "KAB. NDUGA",
+    "kode_wil_bps": 9429,
+    "nama_wil_bps": "NDUGA",
+    "parent": 91,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 9123,
+    "nama": "KAB. LANNY JAYA",
+    "kode_wil_bps": 9430,
+    "nama_wil_bps": "LANNY JAYA",
+    "parent": 91,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 9121,
+    "nama": "KAB. MAMBERAMO TENGAH",
+    "kode_wil_bps": 9431,
+    "nama_wil_bps": "MAMBERAMO TENGAH",
+    "parent": 91,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 9122,
+    "nama": "KAB. YALIMO",
+    "kode_wil_bps": 9432,
+    "nama_wil_bps": "YALIMO",
+    "parent": 91,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 9125,
+    "nama": "KAB. PUNCAK",
+    "kode_wil_bps": 9433,
+    "nama_wil_bps": "PUNCAK",
+    "parent": 91,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 9126,
+    "nama": "KAB. DOGIYAI",
+    "kode_wil_bps": 9434,
+    "nama_wil_bps": "DOGIYAI",
+    "parent": 91,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 9127,
+    "nama": "KAB. INTAN JAYA",
+    "kode_wil_bps": 9435,
+    "nama_wil_bps": "INTAN JAYA",
+    "parent": 91,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 9128,
+    "nama": "KAB. DEIYAI",
+    "kode_wil_bps": 9436,
+    "nama_wil_bps": "DEIYAI",
+    "parent": 91,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 9171,
+    "nama": "KOTA JAYAPURA",
+    "kode_wil_bps": 9471,
+    "nama_wil_bps": "JAYAPURA",
+    "parent": 91,
+    "lokasi": null,
+    "wilayah": null
+  }
+]

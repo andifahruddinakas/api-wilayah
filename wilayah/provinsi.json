@@ -1,0 +1,308 @@
+[
+  {
+    "id": 11,
+    "nama": "ACEH",
+    "kode_wil_bps": 11,
+    "nama_wil_bps": "ACEH",
+    "parent": null,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 12,
+    "nama": "SUMATERA UTARA",
+    "kode_wil_bps": 12,
+    "nama_wil_bps": "SUMATERA UTARA",
+    "parent": null,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 13,
+    "nama": "SUMATERA BARAT",
+    "kode_wil_bps": 13,
+    "nama_wil_bps": "SUMATERA BARAT",
+    "parent": null,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 14,
+    "nama": "RIAU",
+    "kode_wil_bps": 14,
+    "nama_wil_bps": "RIAU",
+    "parent": null,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 15,
+    "nama": "JAMBI",
+    "kode_wil_bps": 15,
+    "nama_wil_bps": "JAMBI",
+    "parent": null,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 16,
+    "nama": "SUMATERA SELATAN",
+    "kode_wil_bps": 16,
+    "nama_wil_bps": "SUMATERA SELATAN",
+    "parent": null,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 17,
+    "nama": "BENGKULU",
+    "kode_wil_bps": 17,
+    "nama_wil_bps": "BENGKULU",
+    "parent": null,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 18,
+    "nama": "LAMPUNG",
+    "kode_wil_bps": 18,
+    "nama_wil_bps": "LAMPUNG",
+    "parent": null,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 19,
+    "nama": "KEP. BANGKA BELITUNG",
+    "kode_wil_bps": 19,
+    "nama_wil_bps": "KEP. BANGKA BELITUNG",
+    "parent": null,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 21,
+    "nama": "KEP. RIAU",
+    "kode_wil_bps": 21,
+    "nama_wil_bps": "KEP. RIAU",
+    "parent": null,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 31,
+    "nama": "DKI JAKARTA",
+    "kode_wil_bps": 31,
+    "nama_wil_bps": "DKI JAKARTA",
+    "parent": null,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 32,
+    "nama": "JAWA BARAT",
+    "kode_wil_bps": 32,
+    "nama_wil_bps": "JAWA BARAT",
+    "parent": null,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 33,
+    "nama": "JAWA TENGAH",
+    "kode_wil_bps": 33,
+    "nama_wil_bps": "JAWA TENGAH",
+    "parent": null,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 34,
+    "nama": "DI YOGYAKARTA",
+    "kode_wil_bps": 34,
+    "nama_wil_bps": "DI YOGYAKARTA",
+    "parent": null,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 35,
+    "nama": "JAWA TIMUR",
+    "kode_wil_bps": 35,
+    "nama_wil_bps": "JAWA TIMUR",
+    "parent": null,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 36,
+    "nama": "BANTEN",
+    "kode_wil_bps": 36,
+    "nama_wil_bps": "BANTEN",
+    "parent": null,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 51,
+    "nama": "BALI",
+    "kode_wil_bps": 51,
+    "nama_wil_bps": "BALI",
+    "parent": null,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 52,
+    "nama": "NUSA TENGGARA BARAT",
+    "kode_wil_bps": 52,
+    "nama_wil_bps": "NUSA TENGGARA BARAT",
+    "parent": null,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 53,
+    "nama": "NUSA TENGGARA TIMUR",
+    "kode_wil_bps": 53,
+    "nama_wil_bps": "NUSA TENGGARA TIMUR",
+    "parent": null,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 61,
+    "nama": "KALIMANTAN BARAT",
+    "kode_wil_bps": 61,
+    "nama_wil_bps": "KALIMANTAN BARAT",
+    "parent": null,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 62,
+    "nama": "KALIMANTAN TENGAH",
+    "kode_wil_bps": 62,
+    "nama_wil_bps": "KALIMANTAN TENGAH",
+    "parent": null,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 63,
+    "nama": "KALIMANTAN SELATAN",
+    "kode_wil_bps": 63,
+    "nama_wil_bps": "KALIMANTAN SELATAN",
+    "parent": null,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 64,
+    "nama": "KALIMANTAN TIMUR",
+    "kode_wil_bps": 64,
+    "nama_wil_bps": "KALIMANTAN TIMUR",
+    "parent": null,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 65,
+    "nama": "KALIMANTAN UTARA",
+    "kode_wil_bps": 65,
+    "nama_wil_bps": "KALIMANTAN UTARA",
+    "parent": null,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 71,
+    "nama": "SULAWESI UTARA",
+    "kode_wil_bps": 71,
+    "nama_wil_bps": "SULAWESI UTARA",
+    "parent": null,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 72,
+    "nama": "SULAWESI TENGAH",
+    "kode_wil_bps": 72,
+    "nama_wil_bps": "SULAWESI TENGAH",
+    "parent": null,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 73,
+    "nama": "SULAWESI SELATAN",
+    "kode_wil_bps": 73,
+    "nama_wil_bps": "SULAWESI SELATAN",
+    "parent": null,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 74,
+    "nama": "SULAWESI TENGGARA",
+    "kode_wil_bps": 74,
+    "nama_wil_bps": "SULAWESI TENGGARA",
+    "parent": null,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 75,
+    "nama": "GORONTALO",
+    "kode_wil_bps": 75,
+    "nama_wil_bps": "GORONTALO",
+    "parent": null,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 76,
+    "nama": "SULAWESI BARAT",
+    "kode_wil_bps": 76,
+    "nama_wil_bps": "SULAWESI BARAT",
+    "parent": null,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 81,
+    "nama": "MALUKU",
+    "kode_wil_bps": 81,
+    "nama_wil_bps": "MALUKU",
+    "parent": null,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 82,
+    "nama": "MALUKU UTARA",
+    "kode_wil_bps": 82,
+    "nama_wil_bps": "MALUKU UTARA",
+    "parent": null,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 92,
+    "nama": "PAPUA BARAT",
+    "kode_wil_bps": 91,
+    "nama_wil_bps": "PAPUA BARAT",
+    "parent": null,
+    "lokasi": null,
+    "wilayah": null
+  },
+  {
+    "id": 91,
+    "nama": "PAPUA",
+    "kode_wil_bps": 94,
+    "nama_wil_bps": "PAPUA",
+    "parent": null,
+    "lokasi": null,
+    "wilayah": null
+  }
+]
