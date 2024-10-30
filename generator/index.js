@@ -1,7 +1,6 @@
 const fs = require("fs");
 const path = require("path");
 
-// Paths to CSV files and output directories
 const csvFilePaths = {
   provinsi: path.join(__dirname, "./data/provinsi.csv"),
   kabupaten: path.join(__dirname, "./data/kabupaten.csv"),
@@ -12,19 +11,16 @@ const csvFilePaths = {
 const outputDir = path.join(__dirname, "../wilayah");
 const cacheFilePath = path.join(outputDir, "cache_wilayah.json");
 
-// Create output directory if it doesn't exist
 const createOutputDir = (dir) => {
   if (!fs.existsSync(dir)) {
     fs.mkdirSync(dir, { recursive: true });
   }
 };
 
-// Load cache from file
 let cache = fs.existsSync(cacheFilePath)
   ? JSON.parse(fs.readFileSync(cacheFilePath, "utf-8"))
   : { provinsi: [], kabupaten: [], kecamatan: [], desa: [] };
 
-// Function to parse CSV data
 const parseCsvData = (csvData, isKabupaten = false, isKecamatan = false) => {
   return csvData
     .map((row) => {
@@ -62,7 +58,6 @@ const parseCsvData = (csvData, isKabupaten = false, isKecamatan = false) => {
     .filter(Boolean);
 };
 
-// Function to parse Desa data
 const parseDesaData = (csvData) => {
   return csvData
     .map((row) => {
@@ -89,7 +84,6 @@ const parseDesaData = (csvData) => {
     .filter(Boolean);
 };
 
-// Main function to fetch and process data
 const fetchData = () => {
   createOutputDir(outputDir);
 
@@ -101,12 +95,12 @@ const fetchData = () => {
         : parseCsvData(csvData, key === "kabupaten", key === "kecamatan");
 
     const outputFilePath = path.join(outputDir, `${key}.json`);
-    fs.writeFileSync(outputFilePath, JSON.stringify(data, null, 2));
-    console.log(`Data ${key} berhasil disimpan di ${outputFilePath}`);
+    fs.writeFileSync(outputFilePath, JSON.stringify(data));
+    console.log(`Data ${key} berhasil disimpan.`);
   });
 
-  fs.writeFileSync(cacheFilePath, JSON.stringify(cache, null, 2));
-  console.log(`Cache wilayah berhasil disimpan di ${cacheFilePath}`);
+  fs.writeFileSync(cacheFilePath, JSON.stringify(cache));
+  console.log(`Cache wilayah berhasil disimpan.`);
 };
 
 fetchData();
