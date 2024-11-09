@@ -1,21 +1,29 @@
 const express = require("express");
+const cors = require("cors"); // Import cors
 const fs = require("fs").promises;
 const path = require("path");
 const app = express();
 
+// Aktifkan CORS untuk semua rute
+app.use(cors());
+
+// Middleware untuk parsing JSON
 app.use(express.json());
 
+// Fungsi untuk membaca file JSON
 const readJsonFile = async (filePath) => {
   const data = await fs.readFile(filePath, "utf8");
   return JSON.parse(data);
 };
 
+// Fungsi untuk mengirim respon standar
 const sendResponse = (res, status, data = null, message = "") => {
   res
     .status(status)
     .json({ status: status === 200 ? "success" : "error", data, message });
 };
 
+// Fungsi umum untuk mendapatkan data dari file JSON dan memfilter jika diperlukan
 const getData = async (filePath, res, filterFn) => {
   try {
     const data = await readJsonFile(filePath);
@@ -31,6 +39,7 @@ const getData = async (filePath, res, filterFn) => {
   }
 };
 
+// Rute utama untuk informasi API
 app.get("/", (req, res) => {
   res.send(`
     <h1>Informasi Cara Penggunaan API</h1>
@@ -50,11 +59,13 @@ app.get("/", (req, res) => {
   `);
 });
 
+// Rute untuk mendapatkan data wilayah provinsi
 app.get("/api/wilayah", (req, res) => {
   const filePath = path.join(__dirname, "wilayah", "provinsi.json");
   getData(filePath, res);
 });
 
+// Rute untuk mendapatkan data wilayah berdasarkan kode
 app.get("/api/wilayah/:kode", async (req, res) => {
   const { kode } = req.params;
   const fileMap = {
@@ -72,6 +83,7 @@ app.get("/api/wilayah/:kode", async (req, res) => {
     : getDataByParent(kode, path.join(__dirname, "wilayah", filePath), res);
 });
 
+// Fungsi untuk mendapatkan data berdasarkan parent
 const getDataByParent = async (kode, filePath, res) => {
   try {
     const data = await readJsonFile(filePath);
@@ -87,6 +99,7 @@ const getDataByParent = async (kode, filePath, res) => {
   }
 };
 
+// Fungsi untuk mendapatkan data detail berdasarkan ID
 const getDataByDetail = async (kode, filePath, res) => {
   try {
     const data = await readJsonFile(filePath);
@@ -102,6 +115,7 @@ const getDataByDetail = async (kode, filePath, res) => {
   }
 };
 
+// Rute untuk mendapatkan data bertingkat
 app.get("/api/bertingkat/:tingkatan/:kode?", async (req, res) => {
   const { tingkatan, kode } = req.params;
   const filePath = path.join(__dirname, "wilayah", `${tingkatan}.json`);
@@ -114,6 +128,7 @@ app.get("/api/bertingkat/:tingkatan/:kode?", async (req, res) => {
   getData(filePath, res, filterFn);
 });
 
+// Rute untuk mendapatkan detail berdasarkan tingkatan dan kode
 app.get("/api/detail/:tingkatan/:kode", async (req, res) => {
   const { tingkatan, kode } = req.params;
   const filePath = path.join(__dirname, "wilayah", `${tingkatan}.json`);
@@ -125,12 +140,13 @@ app.get("/api/detail/:tingkatan/:kode", async (req, res) => {
   getData(filePath, res, (item) => item.id === Number(kode));
 });
 
+// Middleware untuk menangani rute yang tidak ditemukan
 app.use((req, res) => {
   sendResponse(res, 404, null, "Not Found");
 });
 
+// Menjalankan server
 const PORT = process.env.PORT || 5000;
 app.listen(PORT, () => {
   console.log(`Server is running on port ${PORT}`);
-  // console.log(`Server is running on port http://localhost:${PORT}`);
 });
