@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "cors": "^2.8.5",
-    "express": "^4.21.1",
+    "express": "^4.21.2",
     "index.js": "^0.0.3",
     "touch": "^3.1.1"
   },
